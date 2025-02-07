@@ -1,0 +1,12 @@
+./run_structure.sh 3
+./run_structure.sh 4
+./run_structure.sh 5
+./run_structure.sh 6
+./run_structure.sh 7
+./run_structure.sh 8
+./run_structure.sh 9
+./run_structure.sh 10
+./run_structure.sh 11
+./run_structure.sh 12
+./run_structure.sh 13
+./run_structure.sh 14
