@@ -1,0 +1,3 @@
+running on host: ram15tb
+job submitted: Wed Aug 21 14:21:14 PDT 2024
+xargs: /usr/lib64/openmpi/bin/mpiexec: No such file or directory
