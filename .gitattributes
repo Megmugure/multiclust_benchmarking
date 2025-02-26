@@ -1,1 +1,2 @@
+Multiclust_Simulations/benchmark*.o* filter=lfs diff=lfs merge=lfs -text
 Multiclust_Simulations/benchmark* !text !filter !merge !diff
