@@ -1,0 +1,162 @@
+
+
+----------------------------------------------------
+STRUCTURE by Pritchard, Stephens and Donnelly (2000)
+     and Falush, Stephens and Pritchard (2003)
+       Code by Pritchard, Falush and Hubisz
+             Version 2.3.4 (Jul 2012)
+----------------------------------------------------
+
+
+
+Command line arguments:   ./structure -m mainparamsILM5 -e extraparamsILM5 -K 8 -i ./ILM5/ILM5_replicate7_8.str -o ./ILM5_output/ILM5_replicate7_8_k8_output.txt 
+Input File:    ./ILM5/ILM5_replicate7_8.str
+
+Run parameters:
+   50 individuals
+   5 loci
+   8 populations assumed
+   1000000 Burn-in period
+   100000 Reps
+
+
+--------------------------------------------
+Proportion of membership of each pre-defined
+ population in each of the 8 clusters
+
+Given    Inferred Clusters                                          Number of
+ Pop       1      2      3      4      5      6      7      8      Individuals
+
+  1:     0.125  0.125  0.125  0.125  0.125  0.125  0.125  0.125       50
+--------------------------------------------
+
+Allele-freq. divergence among pops (Net nucleotide distance),
+computed using point estimates of P.
+
+      1       2       3       4       5       6       7       8      
+ 1      -    0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  
+ 2   0.0000     -    0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  
+ 3   0.0000  0.0000     -    0.0000  0.0000  0.0000  0.0000  0.0000  
+ 4   0.0000  0.0000  0.0000     -    0.0000  0.0000  0.0000  0.0000  
+ 5   0.0000  0.0000  0.0000  0.0000     -    0.0000  0.0000  0.0000  
+ 6   0.0000  0.0000  0.0000  0.0000  0.0000     -    0.0000  0.0000  
+ 7   0.0000  0.0000  0.0000  0.0000  0.0000  0.0000     -    0.0000  
+ 8   0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000     -    
+
+Average distances (expected heterozygosity) between individuals in same cluster:
+cluster  1  : 0.1259 
+cluster  2  : 0.1256 
+cluster  3  : 0.1259 
+cluster  4  : 0.1251 
+cluster  5  : 0.1250 
+cluster  6  : 0.1248 
+cluster  7  : 0.1248 
+cluster  8  : 0.1250 
+
+--------------------------------------------
+Estimated Ln Prob of Data   = -105.3
+Mean value of ln likelihood = -105.0
+Variance of ln likelihood   = 0.6
+Mean value of alpha         = 8.2825
+
+Mean value of Fst_1         = 0.0000
+Mean value of Fst_2         = 0.0152
+Mean value of Fst_3         = 0.0000
+Mean value of Fst_4         = 0.0187
+Mean value of Fst_5         = 0.0243
+Mean value of Fst_6         = 0.0194
+Mean value of Fst_7         = 0.0242
+Mean value of Fst_8         = 0.0314
+
+
+Inferred ancestry of individuals:
+        Label (%Miss) Pop:  Inferred clusters
+  1    tsk_0    (0)    1 :  0.125 0.125 0.125 0.125 0.125 0.125 0.125 0.125 
+  2    tsk_1    (0)    1 :  0.125 0.125 0.125 0.125 0.125 0.125 0.125 0.125 
+  3    tsk_2    (0)    1 :  0.125 0.125 0.125 0.125 0.125 0.125 0.125 0.125 
+  4    tsk_3    (0)    1 :  0.125 0.125 0.125 0.125 0.125 0.125 0.125 0.125 
+  5    tsk_4    (0)    1 :  0.125 0.125 0.125 0.125 0.125 0.125 0.125 0.125 
+  6    tsk_5    (0)    1 :  0.125 0.125 0.125 0.125 0.125 0.125 0.125 0.125 
+  7    tsk_6    (0)    1 :  0.125 0.125 0.125 0.125 0.125 0.125 0.125 0.125 
+  8    tsk_7    (0)    1 :  0.125 0.125 0.125 0.125 0.125 0.125 0.125 0.125 
+  9    tsk_8    (0)    1 :  0.125 0.125 0.125 0.125 0.125 0.125 0.125 0.125 
+ 10    tsk_9    (0)    1 :  0.125 0.125 0.125 0.125 0.125 0.125 0.125 0.125 
+ 11   tsk_10    (0)    1 :  0.125 0.125 0.125 0.125 0.125 0.125 0.125 0.125 
+ 12   tsk_11    (0)    1 :  0.125 0.125 0.125 0.125 0.125 0.125 0.125 0.125 
+ 13   tsk_12    (0)    1 :  0.125 0.125 0.125 0.125 0.125 0.125 0.125 0.125 
+ 14   tsk_13    (0)    1 :  0.125 0.125 0.125 0.125 0.125 0.125 0.125 0.125 
+ 15   tsk_14    (0)    1 :  0.125 0.125 0.125 0.125 0.125 0.125 0.125 0.125 
+ 16   tsk_15    (0)    1 :  0.125 0.125 0.125 0.125 0.125 0.125 0.125 0.125 
+ 17   tsk_16    (0)    1 :  0.125 0.125 0.125 0.125 0.125 0.125 0.125 0.125 
+ 18   tsk_17    (0)    1 :  0.125 0.125 0.125 0.125 0.125 0.125 0.125 0.125 
+ 19   tsk_18    (0)    1 :  0.125 0.125 0.125 0.125 0.125 0.125 0.125 0.125 
+ 20   tsk_19    (0)    1 :  0.125 0.125 0.125 0.125 0.125 0.125 0.125 0.125 
+ 21   tsk_20    (0)    1 :  0.125 0.125 0.125 0.125 0.125 0.125 0.125 0.125 
+ 22   tsk_21    (0)    1 :  0.125 0.125 0.125 0.125 0.125 0.125 0.125 0.125 
+ 23   tsk_22    (0)    1 :  0.125 0.125 0.125 0.125 0.125 0.125 0.125 0.125 
+ 24   tsk_23    (0)    1 :  0.125 0.125 0.125 0.125 0.125 0.125 0.125 0.125 
+ 25   tsk_24    (0)    1 :  0.125 0.125 0.125 0.125 0.125 0.125 0.125 0.125 
+ 26   tsk_25    (0)    1 :  0.125 0.125 0.125 0.125 0.125 0.125 0.125 0.125 
+ 27   tsk_26    (0)    1 :  0.125 0.125 0.125 0.125 0.125 0.125 0.125 0.125 
+ 28   tsk_27    (0)    1 :  0.125 0.125 0.125 0.125 0.125 0.125 0.125 0.125 
+ 29   tsk_28    (0)    1 :  0.125 0.125 0.125 0.125 0.125 0.125 0.125 0.125 
+ 30   tsk_29    (0)    1 :  0.125 0.125 0.125 0.125 0.125 0.125 0.125 0.125 
+ 31   tsk_30    (0)    1 :  0.125 0.125 0.125 0.125 0.125 0.125 0.125 0.125 
+ 32   tsk_31    (0)    1 :  0.125 0.125 0.125 0.125 0.125 0.125 0.125 0.125 
+ 33   tsk_32    (0)    1 :  0.125 0.125 0.125 0.125 0.125 0.125 0.125 0.125 
+ 34   tsk_33    (0)    1 :  0.125 0.125 0.125 0.125 0.125 0.125 0.125 0.125 
+ 35   tsk_34    (0)    1 :  0.125 0.125 0.125 0.125 0.125 0.125 0.125 0.125 
+ 36   tsk_35    (0)    1 :  0.125 0.125 0.125 0.125 0.125 0.125 0.125 0.125 
+ 37   tsk_36    (0)    1 :  0.125 0.125 0.125 0.125 0.125 0.125 0.125 0.125 
+ 38   tsk_37    (0)    1 :  0.125 0.125 0.125 0.125 0.125 0.125 0.125 0.125 
+ 39   tsk_38    (0)    1 :  0.125 0.125 0.125 0.125 0.125 0.125 0.125 0.125 
+ 40   tsk_39    (0)    1 :  0.125 0.125 0.125 0.125 0.125 0.125 0.125 0.125 
+ 41   tsk_40    (0)    1 :  0.125 0.125 0.125 0.125 0.125 0.125 0.125 0.125 
+ 42   tsk_41    (0)    1 :  0.125 0.125 0.125 0.125 0.125 0.125 0.125 0.125 
+ 43   tsk_42    (0)    1 :  0.125 0.125 0.125 0.125 0.125 0.125 0.125 0.125 
+ 44   tsk_43    (0)    1 :  0.125 0.125 0.125 0.125 0.125 0.125 0.125 0.125 
+ 45   tsk_44    (0)    1 :  0.125 0.125 0.125 0.125 0.125 0.125 0.125 0.125 
+ 46   tsk_45    (0)    1 :  0.125 0.125 0.125 0.125 0.125 0.125 0.125 0.125 
+ 47   tsk_46    (0)    1 :  0.125 0.125 0.125 0.125 0.125 0.125 0.125 0.125 
+ 48   tsk_47    (0)    1 :  0.125 0.125 0.125 0.125 0.125 0.125 0.125 0.125 
+ 49   tsk_48    (0)    1 :  0.125 0.125 0.125 0.125 0.125 0.125 0.125 0.125 
+ 50   tsk_49    (0)    1 :  0.125 0.125 0.125 0.125 0.125 0.125 0.125 0.125 
+
+
+Estimated Allele Frequencies in each cluster
+First column gives estimated ancestral frequencies
+
+
+Locus 1 : SNP_1 
+2 alleles
+0.0% missing data
+   1   (0.993) 0.993 0.993 0.993 0.993 0.993 0.993 0.993 0.993 
+   2   (0.007) 0.007 0.007 0.007 0.007 0.007 0.007 0.007 0.007 
+
+Locus 2 : SNP_2 
+2 alleles
+0.0% missing data
+   4   (0.981) 0.981 0.982 0.981 0.982 0.982 0.982 0.982 0.982 
+   1   (0.019) 0.019 0.018 0.019 0.018 0.018 0.018 0.018 0.018 
+
+Locus 3 : SNP_3 
+2 alleles
+0.0% missing data
+   3   (0.514) 0.514 0.508 0.514 0.510 0.506 0.509 0.508 0.505 
+   1   (0.486) 0.486 0.492 0.486 0.490 0.494 0.491 0.492 0.495 
+
+Locus 4 : SNP_4 
+2 alleles
+0.0% missing data
+   4   (0.968) 0.968 0.968 0.968 0.969 0.969 0.969 0.969 0.969 
+   3   (0.032) 0.032 0.032 0.032 0.031 0.031 0.031 0.031 0.031 
+
+Locus 5 : SNP_5 
+2 alleles
+0.0% missing data
+   3   (0.992) 0.992 0.992 0.992 0.992 0.992 0.992 0.992 0.993 
+   1   (0.008) 0.008 0.008 0.008 0.008 0.008 0.008 0.008 0.007 
+
+Values of parameters used in structure:
+DATAFILE=./ILM5/ILM5_replicate7_8.str,	OUTFILE=./ILM5_output/ILM5_replicate7_8_k8_output.txt,	NUMINDS=50,	NUMLOCI=5,	MISSING=-9,	LABEL=1,	POPDATA=1,	POPFLAG=0,	PHENOTYPE=0,	EXTRACOLS=0,	MAXPOPS=8,	BURNIN=1000000,	NUMREPS=100000,	USEPOPINFO=0,	INFERALPHA=1,	INFERLAMBDA=0,	POPSPECIFICLAMBDA=0,	POPALPHAS=0,	COMPUTEPROB=1,	NOADMIX=0,	ADMBURNIN=500,	UPDATEFREQ=100,	PRINTLIKES=0,	INTERMEDSAVE=0,	PRINTKLD=0,	PRINTNET=1,	PRINTLAMBDA=1,	ANCESTDIST=0,	NUMBOXES=1000,	ANCESTPINT=0.90000,	GENSBACK=2,	MIGRPRIOR=0.01000,	PRINTQHAT=0,	PRINTQSUM=1,	ALPHA=1.0000,	FREQSCORR=1,	FPRIORMEAN=0.0100,	FPRIORSD=0.0500,	ONEFST=0,	LAMBDA=1.0000,	UNIFPRIORALPHA=1,	ALPHAMAX=10.0000,	ALPHAPRIORA=1.0000,	ALPHAPRIORB=2.0000,	ALPHAPROPSD=0.0250,	STARTATPOPINFO=0,	RANDOMIZE=1,	LINKAGE=0,	METROFREQ=10,	REPORTHITRATE=0,	MARKOVPHASE=0,	PHASED=0,	PLOIDY=2,	PHASEINFO=0	LOCPRIOR=0, 	LOCPRIORINIT=1.000000, 	LOCDATA=0, 	LOCISPOP=1, 	LOCPRIORSTEP=0.100000, 	MAXLOCPRIOR=20.000000, 	SEED=1725525047,	
+[STRAT parameters]:    NUMSIMSTATS=1000,	PHENOTYPECOL=-9,	POOLFREQ=10,	LOCUSxONLY=0,	EMERROR=0.00100,	MISSINGPHENO=-9,	

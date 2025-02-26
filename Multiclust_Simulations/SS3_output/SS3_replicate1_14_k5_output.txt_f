@@ -1,0 +1,157 @@
+
+
+----------------------------------------------------
+STRUCTURE by Pritchard, Stephens and Donnelly (2000)
+     and Falush, Stephens and Pritchard (2003)
+       Code by Pritchard, Falush and Hubisz
+             Version 2.3.4 (Jul 2012)
+----------------------------------------------------
+
+
+
+Command line arguments:   ./structure -m mainparamsSS3 -e extraparamsSS3 -K 5 -i ./SS3/SS3_replicate1_14.str -o ./SS3_output/SS3_replicate1_14_k5_output.txt 
+Input File:    ./SS3/SS3_replicate1_14.str
+
+Run parameters:
+   30 individuals
+   9 loci
+   5 populations assumed
+   1000000 Burn-in period
+   100000 Reps
+
+
+--------------------------------------------
+Proportion of membership of each pre-defined
+ population in each of the 5 clusters
+
+Given    Inferred Clusters                     Number of
+ Pop       1      2      3      4      5      Individuals
+
+  1:     0.067  0.256  0.233  0.365  0.078       30
+--------------------------------------------
+
+Allele-freq. divergence among pops (Net nucleotide distance),
+computed using point estimates of P.
+
+      1       2       3       4       5      
+ 1      -    0.1068  0.0076  0.1499  0.0014  
+ 2   0.1068     -    0.0709  0.4812  0.1313  
+ 3   0.0076  0.0709     -    0.1835  0.0125  
+ 4   0.1499  0.4812  0.1835     -    0.1228  
+ 5   0.0014  0.1313  0.0125  0.1228     -    
+
+Average distances (expected heterozygosity) between individuals in same cluster:
+cluster  1  : 0.4654 
+cluster  2  : 0.2808 
+cluster  3  : 0.4333 
+cluster  4  : 0.0635 
+cluster  5  : 0.4537 
+
+--------------------------------------------
+Estimated Ln Prob of Data   = -101.1
+Mean value of ln likelihood = -91.8
+Variance of ln likelihood   = 18.8
+Mean value of alpha         = 0.0315
+
+Mean value of Fst_1         = 0.0091
+Mean value of Fst_2         = 0.5616
+Mean value of Fst_3         = 0.5794
+Mean value of Fst_4         = 0.8213
+Mean value of Fst_5         = 0.0956
+
+
+Inferred ancestry of individuals:
+        Label (%Miss) Pop:  Inferred clusters
+  1    tsk_0    (0)    1 :  0.005 0.003 0.180 0.774 0.038 
+  2    tsk_1    (0)    1 :  0.005 0.003 0.184 0.781 0.026 
+  3    tsk_2    (0)    1 :  0.005 0.003 0.176 0.785 0.031 
+  4    tsk_3    (0)    1 :  0.005 0.003 0.174 0.789 0.029 
+  5    tsk_4    (0)    1 :  0.005 0.003 0.179 0.775 0.038 
+  6    tsk_5    (0)    1 :  0.005 0.003 0.170 0.790 0.033 
+  7    tsk_6    (0)    1 :  0.005 0.003 0.168 0.793 0.030 
+  8    tsk_7    (0)    1 :  0.005 0.003 0.180 0.769 0.042 
+  9    tsk_8    (0)    1 :  0.005 0.003 0.171 0.785 0.036 
+ 10    tsk_9    (0)    1 :  0.005 0.003 0.174 0.781 0.037 
+ 11   tsk_10    (0)    1 :  0.329 0.170 0.133 0.074 0.294 
+ 12   tsk_11    (0)    1 :  0.342 0.135 0.147 0.076 0.302 
+ 13   tsk_12    (0)    1 :  0.394 0.129 0.126 0.024 0.327 
+ 14   tsk_13    (0)    1 :  0.011 0.005 0.173 0.707 0.105 
+ 15   tsk_14    (0)    1 :  0.379 0.134 0.134 0.037 0.316 
+ 16   tsk_15    (0)    1 :  0.029 0.604 0.340 0.003 0.025 
+ 17   tsk_16    (0)    1 :  0.021 0.008 0.182 0.671 0.117 
+ 18   tsk_17    (0)    1 :  0.388 0.136 0.121 0.034 0.322 
+ 19   tsk_18    (0)    1 :  0.005 0.003 0.182 0.778 0.033 
+ 20   tsk_19    (0)    1 :  0.012 0.005 0.173 0.706 0.105 
+ 21   tsk_20    (0)    1 :  0.009 0.628 0.350 0.005 0.008 
+ 22   tsk_21    (0)    1 :  0.004 0.633 0.357 0.002 0.004 
+ 23   tsk_22    (0)    1 :  0.009 0.628 0.350 0.005 0.008 
+ 24   tsk_23    (0)    1 :  0.004 0.635 0.355 0.002 0.004 
+ 25   tsk_24    (0)    1 :  0.004 0.635 0.354 0.002 0.004 
+ 26   tsk_25    (0)    1 :  0.004 0.634 0.356 0.002 0.004 
+ 27   tsk_26    (0)    1 :  0.008 0.629 0.350 0.005 0.008 
+ 28   tsk_27    (0)    1 :  0.004 0.632 0.359 0.002 0.004 
+ 29   tsk_28    (0)    1 :  0.004 0.635 0.354 0.002 0.004 
+ 30   tsk_29    (0)    1 :  0.004 0.638 0.352 0.002 0.004 
+
+
+Estimated Allele Frequencies in each cluster
+First column gives estimated ancestral frequencies
+
+
+Locus 1 : SNP_1 
+2 alleles
+0.0% missing data
+   3   (0.569) 0.569 0.198 0.487 0.978 0.607 
+   2   (0.431) 0.431 0.802 0.513 0.022 0.393 
+
+Locus 2 : SNP_2 
+2 alleles
+0.0% missing data
+   4   (0.831) 0.832 0.925 0.935 0.992 0.850 
+   1   (0.169) 0.168 0.075 0.065 0.008 0.150 
+
+Locus 3 : SNP_3 
+2 alleles
+0.0% missing data
+   1   (0.642) 0.642 0.867 0.825 0.851 0.640 
+   3   (0.358) 0.358 0.133 0.175 0.149 0.360 
+
+Locus 4 : SNP_4 
+2 alleles
+0.0% missing data
+   3   (0.522) 0.522 0.159 0.480 0.976 0.567 
+   4   (0.478) 0.478 0.841 0.520 0.024 0.433 
+
+Locus 5 : SNP_5 
+2 alleles
+0.0% missing data
+   2   (0.561) 0.560 0.181 0.496 0.977 0.598 
+   3   (0.439) 0.440 0.819 0.504 0.023 0.402 
+
+Locus 6 : SNP_6 
+2 alleles
+0.0% missing data
+   1   (0.535) 0.534 0.175 0.488 0.978 0.578 
+   3   (0.465) 0.466 0.825 0.512 0.022 0.422 
+
+Locus 7 : SNP_7 
+2 alleles
+0.0% missing data
+   1   (0.539) 0.539 0.192 0.470 0.978 0.586 
+   2   (0.461) 0.461 0.808 0.530 0.022 0.414 
+
+Locus 8 : SNP_8 
+2 alleles
+0.0% missing data
+   1   (0.522) 0.521 0.167 0.478 0.978 0.566 
+   2   (0.478) 0.479 0.833 0.522 0.022 0.434 
+
+Locus 9 : SNP_9 
+2 alleles
+0.0% missing data
+   4   (0.615) 0.614 0.275 0.555 0.981 0.651 
+   2   (0.385) 0.386 0.725 0.445 0.019 0.349 
+
+Values of parameters used in structure:
+DATAFILE=./SS3/SS3_replicate1_14.str,	OUTFILE=./SS3_output/SS3_replicate1_14_k5_output.txt,	NUMINDS=30,	NUMLOCI=9,	MISSING=-9,	LABEL=1,	POPDATA=1,	POPFLAG=0,	PHENOTYPE=0,	EXTRACOLS=0,	MAXPOPS=5,	BURNIN=1000000,	NUMREPS=100000,	USEPOPINFO=0,	INFERALPHA=1,	INFERLAMBDA=0,	POPSPECIFICLAMBDA=0,	POPALPHAS=0,	COMPUTEPROB=1,	NOADMIX=0,	ADMBURNIN=500,	UPDATEFREQ=100,	PRINTLIKES=0,	INTERMEDSAVE=0,	PRINTKLD=0,	PRINTNET=1,	PRINTLAMBDA=1,	ANCESTDIST=0,	NUMBOXES=1000,	ANCESTPINT=0.90000,	GENSBACK=2,	MIGRPRIOR=0.01000,	PRINTQHAT=0,	PRINTQSUM=1,	ALPHA=1.0000,	FREQSCORR=1,	FPRIORMEAN=0.0100,	FPRIORSD=0.0500,	ONEFST=0,	LAMBDA=1.0000,	UNIFPRIORALPHA=1,	ALPHAMAX=10.0000,	ALPHAPRIORA=1.0000,	ALPHAPRIORB=2.0000,	ALPHAPROPSD=0.0250,	STARTATPOPINFO=0,	RANDOMIZE=1,	LINKAGE=0,	METROFREQ=10,	REPORTHITRATE=0,	MARKOVPHASE=0,	PHASED=0,	PLOIDY=2,	PHASEINFO=0	LOCPRIOR=0, 	LOCPRIORINIT=1.000000, 	LOCDATA=0, 	LOCISPOP=1, 	LOCPRIORSTEP=0.100000, 	MAXLOCPRIOR=20.000000, 	SEED=1725522300,	
+[STRAT parameters]:    NUMSIMSTATS=1000,	PHENOTYPECOL=-9,	POOLFREQ=10,	LOCUSxONLY=0,	EMERROR=0.00100,	MISSINGPHENO=-9,	

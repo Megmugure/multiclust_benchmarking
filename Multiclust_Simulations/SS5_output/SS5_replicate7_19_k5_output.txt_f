@@ -1,0 +1,237 @@
+
+
+----------------------------------------------------
+STRUCTURE by Pritchard, Stephens and Donnelly (2000)
+     and Falush, Stephens and Pritchard (2003)
+       Code by Pritchard, Falush and Hubisz
+             Version 2.3.4 (Jul 2012)
+----------------------------------------------------
+
+
+
+Command line arguments:   ./structure -m mainparamsSS5 -e extraparamsSS5 -K 5 -i ./SS5/SS5_replicate7_19.str -o ./SS5_output/SS5_replicate7_19_k5_output.txt 
+Input File:    ./SS5/SS5_replicate7_19.str
+
+Run parameters:
+   50 individuals
+   19 loci
+   5 populations assumed
+   1000000 Burn-in period
+   100000 Reps
+
+
+--------------------------------------------
+Proportion of membership of each pre-defined
+ population in each of the 5 clusters
+
+Given    Inferred Clusters                     Number of
+ Pop       1      2      3      4      5      Individuals
+
+  1:     0.137  0.116  0.126  0.295  0.326       50
+--------------------------------------------
+
+Allele-freq. divergence among pops (Net nucleotide distance),
+computed using point estimates of P.
+
+      1       2       3       4       5      
+ 1      -    0.1109  0.0794  0.3125  0.5242  
+ 2   0.1109     -    0.0217  0.1221  0.2804  
+ 3   0.0794  0.0217     -    0.1987  0.4147  
+ 4   0.3125  0.1221  0.1987     -    0.4253  
+ 5   0.5242  0.2804  0.4147  0.4253     -    
+
+Average distances (expected heterozygosity) between individuals in same cluster:
+cluster  1  : 0.0137 
+cluster  2  : 0.2447 
+cluster  3  : 0.1393 
+cluster  4  : 0.0199 
+cluster  5  : 0.0337 
+
+--------------------------------------------
+Estimated Ln Prob of Data   = -253.8
+Mean value of ln likelihood = -228.8
+Variance of ln likelihood   = 50.1
+Mean value of alpha         = 0.0331
+
+Mean value of Fst_1         = 0.8725
+Mean value of Fst_2         = 0.3559
+Mean value of Fst_3         = 0.5798
+Mean value of Fst_4         = 0.8996
+Mean value of Fst_5         = 0.9007
+
+
+Inferred ancestry of individuals:
+        Label (%Miss) Pop:  Inferred clusters
+  1    tsk_0    (0)    1 :  0.002 0.002 0.002 0.002 0.992 
+  2    tsk_1    (0)    1 :  0.002 0.002 0.002 0.002 0.992 
+  3    tsk_2    (0)    1 :  0.002 0.002 0.002 0.002 0.992 
+  4    tsk_3    (0)    1 :  0.002 0.002 0.002 0.002 0.992 
+  5    tsk_4    (0)    1 :  0.002 0.003 0.002 0.002 0.992 
+  6    tsk_5    (0)    1 :  0.002 0.002 0.002 0.002 0.992 
+  7    tsk_6    (0)    1 :  0.002 0.002 0.002 0.002 0.993 
+  8    tsk_7    (0)    1 :  0.002 0.002 0.002 0.002 0.992 
+  9    tsk_8    (0)    1 :  0.002 0.003 0.002 0.002 0.992 
+ 10    tsk_9    (0)    1 :  0.002 0.002 0.002 0.002 0.993 
+ 11   tsk_10    (0)    1 :  0.061 0.383 0.159 0.009 0.388 
+ 12   tsk_11    (0)    1 :  0.062 0.362 0.176 0.009 0.391 
+ 13   tsk_12    (0)    1 :  0.062 0.379 0.161 0.009 0.389 
+ 14   tsk_13    (0)    1 :  0.002 0.004 0.002 0.002 0.991 
+ 15   tsk_14    (0)    1 :  0.002 0.004 0.002 0.002 0.991 
+ 16   tsk_15    (0)    1 :  0.060 0.380 0.161 0.009 0.390 
+ 17   tsk_16    (0)    1 :  0.002 0.002 0.002 0.002 0.992 
+ 18   tsk_17    (0)    1 :  0.064 0.374 0.162 0.009 0.391 
+ 19   tsk_18    (0)    1 :  0.002 0.002 0.002 0.002 0.992 
+ 20   tsk_19    (0)    1 :  0.054 0.371 0.168 0.008 0.398 
+ 21   tsk_20    (0)    1 :  0.087 0.195 0.713 0.003 0.002 
+ 22   tsk_21    (0)    1 :  0.086 0.193 0.716 0.003 0.002 
+ 23   tsk_22    (0)    1 :  0.961 0.016 0.018 0.003 0.002 
+ 24   tsk_23    (0)    1 :  0.984 0.004 0.008 0.002 0.002 
+ 25   tsk_24    (0)    1 :  0.984 0.004 0.007 0.003 0.002 
+ 26   tsk_25    (0)    1 :  0.985 0.004 0.007 0.003 0.002 
+ 27   tsk_26    (0)    1 :  0.085 0.194 0.715 0.004 0.002 
+ 28   tsk_27    (0)    1 :  0.983 0.005 0.008 0.003 0.002 
+ 29   tsk_28    (0)    1 :  0.093 0.191 0.711 0.003 0.002 
+ 30   tsk_29    (0)    1 :  0.984 0.005 0.007 0.003 0.002 
+ 31   tsk_30    (0)    1 :  0.051 0.384 0.241 0.321 0.003 
+ 32   tsk_31    (0)    1 :  0.055 0.373 0.196 0.374 0.003 
+ 33   tsk_32    (0)    1 :  0.057 0.375 0.233 0.331 0.003 
+ 34   tsk_33    (0)    1 :  0.007 0.207 0.780 0.004 0.002 
+ 35   tsk_34    (0)    1 :  0.002 0.006 0.003 0.987 0.002 
+ 36   tsk_35    (0)    1 :  0.014 0.475 0.269 0.239 0.003 
+ 37   tsk_36    (0)    1 :  0.006 0.470 0.318 0.203 0.003 
+ 38   tsk_37    (0)    1 :  0.008 0.375 0.294 0.320 0.003 
+ 39   tsk_38    (0)    1 :  0.002 0.006 0.003 0.987 0.002 
+ 40   tsk_39    (0)    1 :  0.003 0.005 0.003 0.988 0.002 
+ 41   tsk_40    (0)    1 :  0.003 0.005 0.003 0.987 0.002 
+ 42   tsk_41    (0)    1 :  0.003 0.006 0.004 0.986 0.002 
+ 43   tsk_42    (0)    1 :  0.003 0.005 0.004 0.987 0.002 
+ 44   tsk_43    (0)    1 :  0.003 0.005 0.003 0.987 0.002 
+ 45   tsk_44    (0)    1 :  0.003 0.005 0.004 0.987 0.002 
+ 46   tsk_45    (0)    1 :  0.003 0.005 0.004 0.986 0.002 
+ 47   tsk_46    (0)    1 :  0.003 0.005 0.004 0.987 0.002 
+ 48   tsk_47    (0)    1 :  0.003 0.004 0.004 0.987 0.002 
+ 49   tsk_48    (0)    1 :  0.003 0.005 0.004 0.986 0.002 
+ 50   tsk_49    (0)    1 :  0.003 0.005 0.003 0.987 0.002 
+
+
+Estimated Allele Frequencies in each cluster
+First column gives estimated ancestral frequencies
+
+
+Locus 1 : SNP_1 
+2 alleles
+0.0% missing data
+   3   (0.231) 0.003 0.155 0.018 0.001 0.997 
+   4   (0.769) 0.997 0.845 0.982 0.999 0.003 
+
+Locus 2 : SNP_2 
+2 alleles
+0.0% missing data
+   3   (0.850) 0.936 0.963 0.985 0.999 0.999 
+   2   (0.150) 0.064 0.037 0.015 0.001 0.001 
+
+Locus 3 : SNP_3 
+2 alleles
+0.0% missing data
+   4   (0.237) 0.003 0.158 0.018 0.001 0.997 
+   2   (0.763) 0.997 0.842 0.982 0.999 0.003 
+
+Locus 4 : SNP_4 
+2 alleles
+0.0% missing data
+   1   (0.833) 0.996 0.898 0.746 0.999 0.999 
+   2   (0.167) 0.004 0.102 0.254 0.001 0.001 
+
+Locus 5 : SNP_5 
+2 alleles
+0.0% missing data
+   3   (0.235) 0.003 0.156 0.019 0.001 0.997 
+   4   (0.765) 0.997 0.844 0.981 0.999 0.003 
+
+Locus 6 : SNP_6 
+2 alleles
+0.0% missing data
+   1   (0.234) 0.003 0.157 0.019 0.001 0.997 
+   3   (0.766) 0.997 0.843 0.981 0.999 0.003 
+
+Locus 7 : SNP_7 
+2 alleles
+0.0% missing data
+   4   (0.847) 0.998 0.969 0.989 0.999 0.684 
+   1   (0.153) 0.002 0.031 0.011 0.001 0.316 
+
+Locus 8 : SNP_8 
+2 alleles
+0.0% missing data
+   2   (0.770) 0.997 0.784 0.527 0.999 0.999 
+   3   (0.230) 0.003 0.216 0.473 0.001 0.001 
+
+Locus 9 : SNP_9 
+2 alleles
+0.0% missing data
+   3   (0.736) 0.011 0.892 0.783 0.999 0.999 
+   4   (0.264) 0.989 0.108 0.217 0.001 0.001 
+
+Locus 10 : SNP_10 
+2 alleles
+0.0% missing data
+   2   (0.452) 0.005 0.358 0.091 0.997 0.998 
+   4   (0.548) 0.995 0.642 0.909 0.003 0.002 
+
+Locus 11 : SNP_11 
+2 alleles
+0.0% missing data
+   2   (0.804) 0.998 0.916 0.970 0.794 0.999 
+   4   (0.196) 0.002 0.084 0.030 0.206 0.001 
+
+Locus 12 : SNP_12 
+2 alleles
+0.0% missing data
+   4   (0.230) 0.003 0.154 0.018 0.001 0.997 
+   2   (0.770) 0.997 0.846 0.982 0.999 0.003 
+
+Locus 13 : SNP_13 
+2 alleles
+0.0% missing data
+   1   (0.825) 0.998 0.942 0.983 0.999 0.920 
+   2   (0.175) 0.002 0.058 0.017 0.001 0.080 
+
+Locus 14 : SNP_14 
+2 alleles
+0.0% missing data
+   1   (0.742) 0.011 0.894 0.784 0.999 0.999 
+   2   (0.258) 0.989 0.106 0.216 0.001 0.001 
+
+Locus 15 : SNP_15 
+2 alleles
+0.0% missing data
+   1   (0.827) 0.998 0.888 0.927 0.997 0.999 
+   3   (0.173) 0.002 0.112 0.073 0.003 0.001 
+
+Locus 16 : SNP_16 
+2 alleles
+0.0% missing data
+   1   (0.735) 0.997 0.793 0.929 0.004 0.999 
+   3   (0.265) 0.003 0.207 0.071 0.996 0.001 
+
+Locus 17 : SNP_17 
+2 alleles
+0.0% missing data
+   1   (0.736) 0.997 0.792 0.930 0.004 0.999 
+   2   (0.264) 0.003 0.208 0.070 0.996 0.001 
+
+Locus 18 : SNP_18 
+2 alleles
+0.0% missing data
+   3   (0.448) 0.005 0.357 0.091 0.997 0.998 
+   1   (0.552) 0.995 0.643 0.909 0.003 0.002 
+
+Locus 19 : SNP_19 
+2 alleles
+0.0% missing data
+   4   (0.233) 0.003 0.154 0.019 0.001 0.997 
+   2   (0.767) 0.997 0.846 0.981 0.999 0.003 
+
+Values of parameters used in structure:
+DATAFILE=./SS5/SS5_replicate7_19.str,	OUTFILE=./SS5_output/SS5_replicate7_19_k5_output.txt,	NUMINDS=50,	NUMLOCI=19,	MISSING=-9,	LABEL=1,	POPDATA=1,	POPFLAG=0,	PHENOTYPE=0,	EXTRACOLS=0,	MAXPOPS=5,	BURNIN=1000000,	NUMREPS=100000,	USEPOPINFO=0,	INFERALPHA=1,	INFERLAMBDA=0,	POPSPECIFICLAMBDA=0,	POPALPHAS=0,	COMPUTEPROB=1,	NOADMIX=0,	ADMBURNIN=500,	UPDATEFREQ=100,	PRINTLIKES=0,	INTERMEDSAVE=0,	PRINTKLD=0,	PRINTNET=1,	PRINTLAMBDA=1,	ANCESTDIST=0,	NUMBOXES=1000,	ANCESTPINT=0.90000,	GENSBACK=2,	MIGRPRIOR=0.01000,	PRINTQHAT=0,	PRINTQSUM=1,	ALPHA=1.0000,	FREQSCORR=1,	FPRIORMEAN=0.0100,	FPRIORSD=0.0500,	ONEFST=0,	LAMBDA=1.0000,	UNIFPRIORALPHA=1,	ALPHAMAX=10.0000,	ALPHAPRIORA=1.0000,	ALPHAPRIORB=2.0000,	ALPHAPROPSD=0.0250,	STARTATPOPINFO=0,	RANDOMIZE=1,	LINKAGE=0,	METROFREQ=10,	REPORTHITRATE=0,	MARKOVPHASE=0,	PHASED=0,	PLOIDY=2,	PHASEINFO=0	LOCPRIOR=0, 	LOCPRIORINIT=1.000000, 	LOCDATA=0, 	LOCISPOP=1, 	LOCPRIORSTEP=0.100000, 	MAXLOCPRIOR=20.000000, 	SEED=1725573383,	
+[STRAT parameters]:    NUMSIMSTATS=1000,	PHENOTYPECOL=-9,	POOLFREQ=10,	LOCUSxONLY=0,	EMERROR=0.00100,	MISSINGPHENO=-9,	

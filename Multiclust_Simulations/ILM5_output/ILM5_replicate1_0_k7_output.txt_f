@@ -1,0 +1,159 @@
+
+
+----------------------------------------------------
+STRUCTURE by Pritchard, Stephens and Donnelly (2000)
+     and Falush, Stephens and Pritchard (2003)
+       Code by Pritchard, Falush and Hubisz
+             Version 2.3.4 (Jul 2012)
+----------------------------------------------------
+
+
+
+Command line arguments:   ./structure -m mainparamsILM5 -e extraparamsILM5 -K 7 -i ./ILM5/ILM5_replicate1_0.str -o ./ILM5_output/ILM5_replicate1_0_k7_output.txt 
+Input File:    ./ILM5/ILM5_replicate1_0.str
+
+Run parameters:
+   50 individuals
+   5 loci
+   7 populations assumed
+   1000000 Burn-in period
+   100000 Reps
+
+
+--------------------------------------------
+Proportion of membership of each pre-defined
+ population in each of the 7 clusters
+
+Given    Inferred Clusters                                   Number of
+ Pop       1      2      3      4      5      6      7      Individuals
+
+  1:     0.132  0.138  0.138  0.148  0.144  0.137  0.162       50
+--------------------------------------------
+
+Allele-freq. divergence among pops (Net nucleotide distance),
+computed using point estimates of P.
+
+      1       2       3       4       5       6       7      
+ 1      -    0.0011  0.0006  0.0014  0.0008  0.0011  0.0091  
+ 2   0.0011     -    0.0020  0.0001  0.0001  0.0001  0.0049  
+ 3   0.0006  0.0020     -    0.0024  0.0018  0.0024  0.0127  
+ 4   0.0014  0.0001  0.0024     -    0.0001  0.0001  0.0043  
+ 5   0.0008  0.0001  0.0018  0.0001     -    0.0001  0.0051  
+ 6   0.0011  0.0001  0.0024  0.0001  0.0001     -    0.0041  
+ 7   0.0091  0.0049  0.0127  0.0043  0.0051  0.0041     -    
+
+Average distances (expected heterozygosity) between individuals in same cluster:
+cluster  1  : 0.3502 
+cluster  2  : 0.3643 
+cluster  3  : 0.3578 
+cluster  4  : 0.3593 
+cluster  5  : 0.3576 
+cluster  6  : 0.3559 
+cluster  7  : 0.3315 
+
+--------------------------------------------
+Estimated Ln Prob of Data   = -246.5
+Mean value of ln likelihood = -189.8
+Variance of ln likelihood   = 113.4
+Mean value of alpha         = 0.0512
+
+Mean value of Fst_1         = 0.1294
+Mean value of Fst_2         = 0.1380
+Mean value of Fst_3         = 0.2115
+Mean value of Fst_4         = 0.2319
+Mean value of Fst_5         = 0.1957
+Mean value of Fst_6         = 0.1714
+Mean value of Fst_7         = 0.2875
+
+
+Inferred ancestry of individuals:
+        Label (%Miss) Pop:  Inferred clusters
+  1    tsk_0    (0)    1 :  0.150 0.164 0.132 0.135 0.145 0.148 0.126 
+  2    tsk_1    (0)    1 :  0.152 0.162 0.136 0.137 0.146 0.144 0.123 
+  3    tsk_2    (0)    1 :  0.167 0.155 0.135 0.138 0.149 0.141 0.116 
+  4    tsk_3    (0)    1 :  0.077 0.128 0.102 0.168 0.142 0.123 0.260 
+  5    tsk_4    (0)    1 :  0.152 0.161 0.143 0.138 0.142 0.152 0.113 
+  6    tsk_5    (0)    1 :  0.118 0.131 0.117 0.160 0.149 0.136 0.190 
+  7    tsk_6    (0)    1 :  0.151 0.152 0.143 0.144 0.139 0.144 0.126 
+  8    tsk_7    (0)    1 :  0.112 0.134 0.119 0.161 0.146 0.136 0.191 
+  9    tsk_8    (0)    1 :  0.148 0.164 0.136 0.140 0.143 0.143 0.125 
+ 10    tsk_9    (0)    1 :  0.111 0.140 0.201 0.172 0.152 0.134 0.092 
+ 11   tsk_10    (0)    1 :  0.152 0.149 0.136 0.142 0.147 0.145 0.129 
+ 12   tsk_11    (0)    1 :  0.151 0.158 0.138 0.132 0.144 0.148 0.129 
+ 13   tsk_12    (0)    1 :  0.078 0.127 0.096 0.166 0.145 0.125 0.264 
+ 14   tsk_13    (0)    1 :  0.151 0.158 0.133 0.143 0.148 0.145 0.121 
+ 15   tsk_14    (0)    1 :  0.149 0.146 0.136 0.137 0.145 0.148 0.140 
+ 16   tsk_15    (0)    1 :  0.084 0.127 0.102 0.164 0.141 0.124 0.258 
+ 17   tsk_16    (0)    1 :  0.083 0.120 0.102 0.165 0.144 0.124 0.263 
+ 18   tsk_17    (0)    1 :  0.080 0.124 0.105 0.165 0.149 0.120 0.257 
+ 19   tsk_18    (0)    1 :  0.153 0.151 0.138 0.141 0.144 0.141 0.132 
+ 20   tsk_19    (0)    1 :  0.082 0.127 0.096 0.157 0.139 0.133 0.266 
+ 21   tsk_20    (0)    1 :  0.173 0.120 0.182 0.133 0.141 0.129 0.123 
+ 22   tsk_21    (0)    1 :  0.165 0.121 0.182 0.135 0.143 0.130 0.123 
+ 23   tsk_22    (0)    1 :  0.150 0.147 0.134 0.140 0.142 0.155 0.133 
+ 24   tsk_23    (0)    1 :  0.161 0.137 0.168 0.143 0.137 0.135 0.118 
+ 25   tsk_24    (0)    1 :  0.075 0.128 0.107 0.169 0.140 0.126 0.255 
+ 26   tsk_25    (0)    1 :  0.154 0.145 0.138 0.138 0.145 0.150 0.130 
+ 27   tsk_26    (0)    1 :  0.169 0.119 0.186 0.129 0.136 0.134 0.127 
+ 28   tsk_27    (0)    1 :  0.079 0.131 0.096 0.157 0.145 0.129 0.263 
+ 29   tsk_28    (0)    1 :  0.148 0.148 0.129 0.142 0.148 0.150 0.134 
+ 30   tsk_29    (0)    1 :  0.151 0.143 0.135 0.140 0.150 0.149 0.132 
+ 31   tsk_30    (0)    1 :  0.079 0.125 0.106 0.166 0.141 0.122 0.262 
+ 32   tsk_31    (0)    1 :  0.156 0.147 0.137 0.143 0.146 0.142 0.129 
+ 33   tsk_32    (0)    1 :  0.176 0.114 0.180 0.128 0.146 0.131 0.125 
+ 34   tsk_33    (0)    1 :  0.146 0.149 0.136 0.137 0.149 0.146 0.136 
+ 35   tsk_34    (0)    1 :  0.080 0.127 0.104 0.167 0.143 0.122 0.257 
+ 36   tsk_35    (0)    1 :  0.078 0.125 0.100 0.163 0.146 0.122 0.265 
+ 37   tsk_36    (0)    1 :  0.156 0.144 0.137 0.134 0.151 0.145 0.132 
+ 38   tsk_37    (0)    1 :  0.149 0.145 0.136 0.141 0.148 0.141 0.140 
+ 39   tsk_38    (0)    1 :  0.083 0.124 0.097 0.165 0.144 0.123 0.265 
+ 40   tsk_39    (0)    1 :  0.077 0.128 0.107 0.160 0.145 0.120 0.261 
+ 41   tsk_40    (0)    1 :  0.156 0.140 0.165 0.144 0.144 0.135 0.115 
+ 42   tsk_41    (0)    1 :  0.116 0.141 0.198 0.173 0.145 0.134 0.093 
+ 43   tsk_42    (0)    1 :  0.183 0.116 0.182 0.125 0.139 0.130 0.125 
+ 44   tsk_43    (0)    1 :  0.148 0.160 0.143 0.151 0.143 0.139 0.116 
+ 45   tsk_44    (0)    1 :  0.152 0.158 0.133 0.137 0.145 0.147 0.127 
+ 46   tsk_45    (0)    1 :  0.151 0.136 0.173 0.139 0.143 0.139 0.118 
+ 47   tsk_46    (0)    1 :  0.153 0.127 0.172 0.147 0.140 0.141 0.120 
+ 48   tsk_47    (0)    1 :  0.145 0.142 0.140 0.142 0.152 0.147 0.132 
+ 49   tsk_48    (0)    1 :  0.173 0.116 0.185 0.138 0.135 0.134 0.121 
+ 50   tsk_49    (0)    1 :  0.141 0.143 0.173 0.165 0.138 0.131 0.109 
+
+
+Estimated Allele Frequencies in each cluster
+First column gives estimated ancestral frequencies
+
+
+Locus 1 : SNP_1 
+2 alleles
+0.0% missing data
+   1   (0.604) 0.596 0.545 0.611 0.540 0.555 0.541 0.450 
+   2   (0.396) 0.404 0.455 0.389 0.460 0.445 0.459 0.550 
+
+Locus 2 : SNP_2 
+2 alleles
+0.0% missing data
+   3   (0.872) 0.897 0.895 0.909 0.913 0.908 0.903 0.918 
+   4   (0.128) 0.103 0.105 0.091 0.087 0.092 0.097 0.082 
+
+Locus 3 : SNP_3 
+2 alleles
+0.0% missing data
+   1   (0.178) 0.150 0.166 0.182 0.170 0.163 0.156 0.124 
+   3   (0.822) 0.850 0.834 0.818 0.830 0.837 0.844 0.876 
+
+Locus 4 : SNP_4 
+2 alleles
+0.0% missing data
+   3   (0.264) 0.228 0.244 0.260 0.239 0.237 0.227 0.181 
+   4   (0.736) 0.772 0.756 0.740 0.761 0.763 0.773 0.819 
+
+Locus 5 : SNP_5 
+2 alleles
+0.0% missing data
+   4   (0.624) 0.608 0.560 0.630 0.552 0.562 0.558 0.463 
+   1   (0.376) 0.392 0.440 0.370 0.448 0.438 0.442 0.537 
+
+Values of parameters used in structure:
+DATAFILE=./ILM5/ILM5_replicate1_0.str,	OUTFILE=./ILM5_output/ILM5_replicate1_0_k7_output.txt,	NUMINDS=50,	NUMLOCI=5,	MISSING=-9,	LABEL=1,	POPDATA=1,	POPFLAG=0,	PHENOTYPE=0,	EXTRACOLS=0,	MAXPOPS=7,	BURNIN=1000000,	NUMREPS=100000,	USEPOPINFO=0,	INFERALPHA=1,	INFERLAMBDA=0,	POPSPECIFICLAMBDA=0,	POPALPHAS=0,	COMPUTEPROB=1,	NOADMIX=0,	ADMBURNIN=500,	UPDATEFREQ=100,	PRINTLIKES=0,	INTERMEDSAVE=0,	PRINTKLD=0,	PRINTNET=1,	PRINTLAMBDA=1,	ANCESTDIST=0,	NUMBOXES=1000,	ANCESTPINT=0.90000,	GENSBACK=2,	MIGRPRIOR=0.01000,	PRINTQHAT=0,	PRINTQSUM=1,	ALPHA=1.0000,	FREQSCORR=1,	FPRIORMEAN=0.0100,	FPRIORSD=0.0500,	ONEFST=0,	LAMBDA=1.0000,	UNIFPRIORALPHA=1,	ALPHAMAX=10.0000,	ALPHAPRIORA=1.0000,	ALPHAPRIORB=2.0000,	ALPHAPROPSD=0.0250,	STARTATPOPINFO=0,	RANDOMIZE=1,	LINKAGE=0,	METROFREQ=10,	REPORTHITRATE=0,	MARKOVPHASE=0,	PHASED=0,	PLOIDY=2,	PHASEINFO=0	LOCPRIOR=0, 	LOCPRIORINIT=1.000000, 	LOCDATA=0, 	LOCISPOP=1, 	LOCPRIORSTEP=0.100000, 	MAXLOCPRIOR=20.000000, 	SEED=1725516254,	
+[STRAT parameters]:    NUMSIMSTATS=1000,	PHENOTYPECOL=-9,	POOLFREQ=10,	LOCUSxONLY=0,	EMERROR=0.00100,	MISSINGPHENO=-9,	

@@ -1,0 +1,193 @@
+
+
+----------------------------------------------------
+STRUCTURE by Pritchard, Stephens and Donnelly (2000)
+     and Falush, Stephens and Pritchard (2003)
+       Code by Pritchard, Falush and Hubisz
+             Version 2.3.4 (Jul 2012)
+----------------------------------------------------
+
+
+
+Command line arguments:   ./structure -m mainparams -e extraparams -K 7 -i ./ILM3/ILM3_replicate4_7.str -o ./ILM3_output/ILM3_replicate4_7_k7_output.txt 
+Input File:    ./ILM3/ILM3_replicate4_7.str
+
+Run parameters:
+   30 individuals
+   14 loci
+   7 populations assumed
+   1000000 Burn-in period
+   100000 Reps
+
+
+--------------------------------------------
+Proportion of membership of each pre-defined
+ population in each of the 7 clusters
+
+Given    Inferred Clusters                                   Number of
+ Pop       1      2      3      4      5      6      7      Individuals
+
+  1:     0.143  0.143  0.143  0.143  0.143  0.143  0.143       30
+--------------------------------------------
+
+Allele-freq. divergence among pops (Net nucleotide distance),
+computed using point estimates of P.
+
+      1       2       3       4       5       6       7      
+ 1      -    0.0001  0.0000  0.0000  0.0001  0.0001  0.0000  
+ 2   0.0001     -    0.0000  0.0000  0.0000  0.0000  0.0000  
+ 3   0.0000  0.0000     -    0.0000  0.0000  0.0000  0.0000  
+ 4   0.0000  0.0000  0.0000     -    0.0000  0.0000  0.0000  
+ 5   0.0001  0.0000  0.0000  0.0000     -    0.0000  0.0000  
+ 6   0.0001  0.0000  0.0000  0.0000  0.0000     -    0.0000  
+ 7   0.0000  0.0000  0.0000  0.0000  0.0000  0.0000     -    
+
+Average distances (expected heterozygosity) between individuals in same cluster:
+cluster  1  : 0.0794 
+cluster  2  : 0.0851 
+cluster  3  : 0.0844 
+cluster  4  : 0.0811 
+cluster  5  : 0.0851 
+cluster  6  : 0.0851 
+cluster  7  : 0.0825 
+
+--------------------------------------------
+Estimated Ln Prob of Data   = -120.7
+Mean value of ln likelihood = -118.6
+Variance of ln likelihood   = 4.3
+Mean value of alpha         = 4.3247
+
+Mean value of Fst_1         = 0.0455
+Mean value of Fst_2         = 0.0000
+Mean value of Fst_3         = 0.0043
+Mean value of Fst_4         = 0.0332
+Mean value of Fst_5         = 0.0000
+Mean value of Fst_6         = 0.0000
+Mean value of Fst_7         = 0.0209
+
+
+Inferred ancestry of individuals:
+        Label (%Miss) Pop:  Inferred clusters
+  1    tsk_0    (0)    1 :  0.145 0.142 0.143 0.142 0.142 0.143 0.142 
+  2    tsk_1    (0)    1 :  0.144 0.143 0.142 0.143 0.143 0.143 0.142 
+  3    tsk_2    (0)    1 :  0.143 0.143 0.143 0.143 0.143 0.142 0.144 
+  4    tsk_3    (0)    1 :  0.143 0.144 0.142 0.143 0.142 0.143 0.144 
+  5    tsk_4    (0)    1 :  0.144 0.142 0.142 0.144 0.143 0.142 0.143 
+  6    tsk_5    (0)    1 :  0.142 0.143 0.144 0.141 0.144 0.143 0.143 
+  7    tsk_6    (0)    1 :  0.144 0.142 0.142 0.143 0.142 0.143 0.143 
+  8    tsk_7    (0)    1 :  0.143 0.143 0.143 0.143 0.143 0.142 0.142 
+  9    tsk_8    (0)    1 :  0.145 0.143 0.143 0.143 0.142 0.142 0.142 
+ 10    tsk_9    (0)    1 :  0.142 0.143 0.143 0.143 0.142 0.143 0.143 
+ 11   tsk_10    (0)    1 :  0.142 0.144 0.142 0.143 0.143 0.142 0.143 
+ 12   tsk_11    (0)    1 :  0.141 0.144 0.144 0.141 0.143 0.144 0.143 
+ 13   tsk_12    (0)    1 :  0.143 0.143 0.143 0.144 0.143 0.142 0.143 
+ 14   tsk_13    (0)    1 :  0.143 0.143 0.143 0.142 0.143 0.143 0.143 
+ 15   tsk_14    (0)    1 :  0.143 0.143 0.144 0.143 0.142 0.143 0.142 
+ 16   tsk_15    (0)    1 :  0.142 0.143 0.144 0.143 0.143 0.143 0.143 
+ 17   tsk_16    (0)    1 :  0.142 0.143 0.143 0.143 0.143 0.144 0.142 
+ 18   tsk_17    (0)    1 :  0.143 0.143 0.143 0.143 0.143 0.143 0.143 
+ 19   tsk_18    (0)    1 :  0.144 0.144 0.143 0.143 0.143 0.143 0.142 
+ 20   tsk_19    (0)    1 :  0.142 0.143 0.143 0.143 0.143 0.143 0.143 
+ 21   tsk_20    (0)    1 :  0.141 0.144 0.143 0.142 0.143 0.143 0.143 
+ 22   tsk_21    (0)    1 :  0.144 0.142 0.142 0.143 0.143 0.143 0.143 
+ 23   tsk_22    (0)    1 :  0.144 0.142 0.142 0.144 0.143 0.142 0.143 
+ 24   tsk_23    (0)    1 :  0.142 0.144 0.144 0.141 0.143 0.143 0.143 
+ 25   tsk_24    (0)    1 :  0.144 0.143 0.143 0.143 0.142 0.143 0.142 
+ 26   tsk_25    (0)    1 :  0.144 0.143 0.142 0.143 0.142 0.143 0.143 
+ 27   tsk_26    (0)    1 :  0.143 0.143 0.142 0.143 0.142 0.144 0.143 
+ 28   tsk_27    (0)    1 :  0.143 0.143 0.143 0.143 0.143 0.142 0.143 
+ 29   tsk_28    (0)    1 :  0.143 0.143 0.142 0.142 0.143 0.143 0.143 
+ 30   tsk_29    (0)    1 :  0.144 0.142 0.143 0.144 0.142 0.142 0.143 
+
+
+Estimated Allele Frequencies in each cluster
+First column gives estimated ancestral frequencies
+
+
+Locus 1 : SNP_1 
+2 alleles
+0.0% missing data
+   3   (0.988) 0.985 0.988 0.988 0.986 0.988 0.988 0.986 
+   4   (0.012) 0.015 0.012 0.012 0.014 0.012 0.012 0.014 
+
+Locus 2 : SNP_2 
+2 alleles
+0.0% missing data
+   1   (0.914) 0.926 0.914 0.915 0.923 0.914 0.914 0.921 
+   4   (0.086) 0.074 0.086 0.085 0.077 0.086 0.086 0.079 
+
+Locus 3 : SNP_3 
+2 alleles
+0.0% missing data
+   3   (0.979) 0.981 0.979 0.979 0.980 0.979 0.979 0.980 
+   2   (0.021) 0.019 0.021 0.021 0.020 0.021 0.021 0.020 
+
+Locus 4 : SNP_4 
+2 alleles
+0.0% missing data
+   1   (0.995) 0.994 0.995 0.995 0.994 0.995 0.995 0.994 
+   4   (0.005) 0.006 0.005 0.005 0.006 0.005 0.005 0.006 
+
+Locus 5 : SNP_5 
+2 alleles
+0.0% missing data
+   4   (0.996) 0.995 0.996 0.996 0.996 0.996 0.996 0.996 
+   2   (0.004) 0.005 0.004 0.004 0.004 0.004 0.004 0.004 
+
+Locus 6 : SNP_6 
+2 alleles
+0.0% missing data
+   1   (0.957) 0.963 0.957 0.958 0.961 0.957 0.957 0.959 
+   2   (0.043) 0.037 0.043 0.042 0.039 0.043 0.043 0.041 
+
+Locus 7 : SNP_7 
+2 alleles
+0.0% missing data
+   2   (0.941) 0.947 0.941 0.941 0.944 0.941 0.941 0.945 
+   3   (0.059) 0.053 0.059 0.059 0.056 0.059 0.059 0.055 
+
+Locus 8 : SNP_8 
+2 alleles
+0.0% missing data
+   1   (0.956) 0.962 0.956 0.957 0.960 0.956 0.956 0.959 
+   4   (0.044) 0.038 0.044 0.043 0.040 0.044 0.044 0.041 
+
+Locus 9 : SNP_9 
+2 alleles
+0.0% missing data
+   1   (0.967) 0.970 0.967 0.967 0.969 0.967 0.967 0.968 
+   3   (0.033) 0.030 0.033 0.033 0.031 0.033 0.033 0.032 
+
+Locus 10 : SNP_10 
+2 alleles
+0.0% missing data
+   2   (0.985) 0.986 0.985 0.985 0.986 0.985 0.985 0.986 
+   4   (0.015) 0.014 0.015 0.015 0.014 0.015 0.015 0.014 
+
+Locus 11 : SNP_11 
+2 alleles
+0.0% missing data
+   1   (0.965) 0.969 0.965 0.966 0.968 0.965 0.965 0.967 
+   2   (0.035) 0.031 0.035 0.034 0.032 0.035 0.035 0.033 
+
+Locus 12 : SNP_12 
+2 alleles
+0.0% missing data
+   2   (0.981) 0.983 0.981 0.981 0.982 0.981 0.981 0.982 
+   1   (0.019) 0.017 0.019 0.019 0.018 0.019 0.019 0.018 
+
+Locus 13 : SNP_13 
+2 alleles
+0.0% missing data
+   1   (0.641) 0.663 0.641 0.642 0.656 0.641 0.641 0.651 
+   2   (0.359) 0.337 0.359 0.358 0.344 0.359 0.359 0.349 
+
+Locus 14 : SNP_14 
+2 alleles
+0.0% missing data
+   4   (0.991) 0.991 0.991 0.991 0.991 0.991 0.991 0.991 
+   3   (0.009) 0.009 0.009 0.009 0.009 0.009 0.009 0.009 
+
+Values of parameters used in structure:
+DATAFILE=./ILM3/ILM3_replicate4_7.str,	OUTFILE=./ILM3_output/ILM3_replicate4_7_k7_output.txt,	NUMINDS=30,	NUMLOCI=14,	MISSING=-9,	LABEL=1,	POPDATA=1,	POPFLAG=0,	PHENOTYPE=0,	EXTRACOLS=0,	MAXPOPS=7,	BURNIN=1000000,	NUMREPS=100000,	USEPOPINFO=0,	INFERALPHA=1,	INFERLAMBDA=0,	POPSPECIFICLAMBDA=0,	POPALPHAS=0,	COMPUTEPROB=1,	NOADMIX=0,	ADMBURNIN=500,	UPDATEFREQ=100,	PRINTLIKES=0,	INTERMEDSAVE=0,	PRINTKLD=0,	PRINTNET=1,	PRINTLAMBDA=1,	ANCESTDIST=0,	NUMBOXES=1000,	ANCESTPINT=0.90000,	GENSBACK=2,	MIGRPRIOR=0.01000,	PRINTQHAT=0,	PRINTQSUM=1,	ALPHA=1.0000,	FREQSCORR=1,	FPRIORMEAN=0.0100,	FPRIORSD=0.0500,	ONEFST=0,	LAMBDA=1.0000,	UNIFPRIORALPHA=1,	ALPHAMAX=10.0000,	ALPHAPRIORA=1.0000,	ALPHAPRIORB=2.0000,	ALPHAPROPSD=0.0250,	STARTATPOPINFO=0,	RANDOMIZE=1,	LINKAGE=0,	METROFREQ=10,	REPORTHITRATE=0,	MARKOVPHASE=0,	PHASED=0,	PLOIDY=2,	PHASEINFO=0	LOCPRIOR=0, 	LOCPRIORINIT=1.000000, 	LOCDATA=0, 	LOCISPOP=1, 	LOCPRIORSTEP=0.100000, 	MAXLOCPRIOR=20.000000, 	SEED=1725513607,	
+[STRAT parameters]:    NUMSIMSTATS=1000,	PHENOTYPECOL=-9,	POOLFREQ=10,	LOCUSxONLY=0,	EMERROR=0.00100,	MISSINGPHENO=-9,	

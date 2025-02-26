@@ -1,0 +1,147 @@
+
+
+----------------------------------------------------
+STRUCTURE by Pritchard, Stephens and Donnelly (2000)
+     and Falush, Stephens and Pritchard (2003)
+       Code by Pritchard, Falush and Hubisz
+             Version 2.3.4 (Jul 2012)
+----------------------------------------------------
+
+
+
+Command line arguments:   ./structure -m mainparamsILM5 -e extraparamsILM5 -K 3 -i ./ILM5/ILM5_replicate4_13.str -o ./ILM5_output/ILM5_replicate4_13_k3_output.txt 
+Input File:    ./ILM5/ILM5_replicate4_13.str
+
+Run parameters:
+   50 individuals
+   5 loci
+   3 populations assumed
+   1000000 Burn-in period
+   100000 Reps
+
+
+--------------------------------------------
+Proportion of membership of each pre-defined
+ population in each of the 3 clusters
+
+Given    Inferred Clusters       Number of
+ Pop       1      2      3      Individuals
+
+  1:     0.332  0.332  0.336       50
+--------------------------------------------
+
+Allele-freq. divergence among pops (Net nucleotide distance),
+computed using point estimates of P.
+
+      1       2       3      
+ 1      -    0.0010  0.0748  
+ 2   0.0010     -    0.0931  
+ 3   0.0748  0.0931     -    
+
+Average distances (expected heterozygosity) between individuals in same cluster:
+cluster  1  : 0.1521 
+cluster  2  : 0.1412 
+cluster  3  : 0.0822 
+
+--------------------------------------------
+Estimated Ln Prob of Data   = -124.3
+Mean value of ln likelihood = -92.8
+Variance of ln likelihood   = 63.0
+Mean value of alpha         = 0.1654
+
+Mean value of Fst_1         = 0.1480
+Mean value of Fst_2         = 0.1016
+Mean value of Fst_3         = 0.5625
+
+
+Inferred ancestry of individuals:
+        Label (%Miss) Pop:  Inferred clusters
+  1    tsk_0    (0)    1 :  0.419 0.435 0.146 
+  2    tsk_1    (0)    1 :  0.156 0.094 0.751 
+  3    tsk_2    (0)    1 :  0.155 0.093 0.752 
+  4    tsk_3    (0)    1 :  0.162 0.094 0.745 
+  5    tsk_4    (0)    1 :  0.158 0.093 0.749 
+  6    tsk_5    (0)    1 :  0.153 0.094 0.753 
+  7    tsk_6    (0)    1 :  0.158 0.093 0.749 
+  8    tsk_7    (0)    1 :  0.159 0.093 0.748 
+  9    tsk_8    (0)    1 :  0.153 0.093 0.753 
+ 10    tsk_9    (0)    1 :  0.307 0.284 0.409 
+ 11   tsk_10    (0)    1 :  0.156 0.091 0.754 
+ 12   tsk_11    (0)    1 :  0.403 0.450 0.147 
+ 13   tsk_12    (0)    1 :  0.155 0.094 0.752 
+ 14   tsk_13    (0)    1 :  0.302 0.290 0.407 
+ 15   tsk_14    (0)    1 :  0.412 0.438 0.150 
+ 16   tsk_15    (0)    1 :  0.300 0.286 0.415 
+ 17   tsk_16    (0)    1 :  0.157 0.091 0.752 
+ 18   tsk_17    (0)    1 :  0.292 0.292 0.417 
+ 19   tsk_18    (0)    1 :  0.297 0.292 0.411 
+ 20   tsk_19    (0)    1 :  0.420 0.435 0.144 
+ 21   tsk_20    (0)    1 :  0.409 0.447 0.144 
+ 22   tsk_21    (0)    1 :  0.411 0.440 0.149 
+ 23   tsk_22    (0)    1 :  0.413 0.440 0.146 
+ 24   tsk_23    (0)    1 :  0.411 0.446 0.143 
+ 25   tsk_24    (0)    1 :  0.304 0.288 0.408 
+ 26   tsk_25    (0)    1 :  0.428 0.468 0.104 
+ 27   tsk_26    (0)    1 :  0.307 0.279 0.414 
+ 28   tsk_27    (0)    1 :  0.158 0.093 0.749 
+ 29   tsk_28    (0)    1 :  0.410 0.441 0.148 
+ 30   tsk_29    (0)    1 :  0.408 0.441 0.150 
+ 31   tsk_30    (0)    1 :  0.407 0.444 0.149 
+ 32   tsk_31    (0)    1 :  0.416 0.437 0.147 
+ 33   tsk_32    (0)    1 :  0.415 0.435 0.150 
+ 34   tsk_33    (0)    1 :  0.383 0.406 0.211 
+ 35   tsk_34    (0)    1 :  0.383 0.399 0.218 
+ 36   tsk_35    (0)    1 :  0.418 0.435 0.147 
+ 37   tsk_36    (0)    1 :  0.411 0.448 0.141 
+ 38   tsk_37    (0)    1 :  0.408 0.445 0.147 
+ 39   tsk_38    (0)    1 :  0.416 0.489 0.096 
+ 40   tsk_39    (0)    1 :  0.156 0.093 0.751 
+ 41   tsk_40    (0)    1 :  0.424 0.431 0.146 
+ 42   tsk_41    (0)    1 :  0.432 0.474 0.094 
+ 43   tsk_42    (0)    1 :  0.419 0.431 0.150 
+ 44   tsk_43    (0)    1 :  0.430 0.456 0.114 
+ 45   tsk_44    (0)    1 :  0.412 0.446 0.143 
+ 46   tsk_45    (0)    1 :  0.445 0.461 0.094 
+ 47   tsk_46    (0)    1 :  0.435 0.463 0.102 
+ 48   tsk_47    (0)    1 :  0.426 0.475 0.099 
+ 49   tsk_48    (0)    1 :  0.418 0.472 0.110 
+ 50   tsk_49    (0)    1 :  0.412 0.444 0.144 
+
+
+Estimated Allele Frequencies in each cluster
+First column gives estimated ancestral frequencies
+
+
+Locus 1 : SNP_1 
+2 alleles
+0.0% missing data
+   3   (0.905) 0.933 0.929 0.989 
+   4   (0.095) 0.067 0.071 0.011 
+
+Locus 2 : SNP_2 
+2 alleles
+0.0% missing data
+   2   (0.963) 0.979 0.977 0.997 
+   3   (0.037) 0.021 0.023 0.003 
+
+Locus 3 : SNP_3 
+2 alleles
+0.0% missing data
+   2   (0.942) 0.966 0.960 0.993 
+   1   (0.058) 0.034 0.040 0.007 
+
+Locus 4 : SNP_4 
+2 alleles
+0.0% missing data
+   1   (0.839) 0.877 0.864 0.978 
+   4   (0.161) 0.123 0.136 0.022 
+
+Locus 5 : SNP_5 
+2 alleles
+0.0% missing data
+   4   (0.861) 0.806 0.875 0.206 
+   2   (0.139) 0.194 0.125 0.794 
+
+Values of parameters used in structure:
+DATAFILE=./ILM5/ILM5_replicate4_13.str,	OUTFILE=./ILM5_output/ILM5_replicate4_13_k3_output.txt,	NUMINDS=50,	NUMLOCI=5,	MISSING=-9,	LABEL=1,	POPDATA=1,	POPFLAG=0,	PHENOTYPE=0,	EXTRACOLS=0,	MAXPOPS=3,	BURNIN=1000000,	NUMREPS=100000,	USEPOPINFO=0,	INFERALPHA=1,	INFERLAMBDA=0,	POPSPECIFICLAMBDA=0,	POPALPHAS=0,	COMPUTEPROB=1,	NOADMIX=0,	ADMBURNIN=500,	UPDATEFREQ=100,	PRINTLIKES=0,	INTERMEDSAVE=0,	PRINTKLD=0,	PRINTNET=1,	PRINTLAMBDA=1,	ANCESTDIST=0,	NUMBOXES=1000,	ANCESTPINT=0.90000,	GENSBACK=2,	MIGRPRIOR=0.01000,	PRINTQHAT=0,	PRINTQSUM=1,	ALPHA=1.0000,	FREQSCORR=1,	FPRIORMEAN=0.0100,	FPRIORSD=0.0500,	ONEFST=0,	LAMBDA=1.0000,	UNIFPRIORALPHA=1,	ALPHAMAX=10.0000,	ALPHAPRIORA=1.0000,	ALPHAPRIORB=2.0000,	ALPHAPROPSD=0.0250,	STARTATPOPINFO=0,	RANDOMIZE=1,	LINKAGE=0,	METROFREQ=10,	REPORTHITRATE=0,	MARKOVPHASE=0,	PHASED=0,	PLOIDY=2,	PHASEINFO=0	LOCPRIOR=0, 	LOCPRIORINIT=1.000000, 	LOCDATA=0, 	LOCISPOP=1, 	LOCPRIORSTEP=0.100000, 	MAXLOCPRIOR=20.000000, 	SEED=1725518485,	
+[STRAT parameters]:    NUMSIMSTATS=1000,	PHENOTYPECOL=-9,	POOLFREQ=10,	LOCUSxONLY=0,	EMERROR=0.00100,	MISSINGPHENO=-9,	

@@ -1,0 +1,365 @@
+
+
+----------------------------------------------------
+STRUCTURE by Pritchard, Stephens and Donnelly (2000)
+     and Falush, Stephens and Pritchard (2003)
+       Code by Pritchard, Falush and Hubisz
+             Version 2.3.4 (Jul 2012)
+----------------------------------------------------
+
+
+
+Command line arguments:   ./structure -m mainparamsILM10 -e extraparamsILM10 -K 3 -i ./ILM10/ILM10_replicate8_10.str -o ./ILM10_output/ILM10_replicate8_10_k3_output.txt 
+Input File:    ./ILM10/ILM10_replicate8_10.str
+
+Run parameters:
+   100 individuals
+   33 loci
+   3 populations assumed
+   1000000 Burn-in period
+   100000 Reps
+
+
+--------------------------------------------
+Proportion of membership of each pre-defined
+ population in each of the 3 clusters
+
+Given    Inferred Clusters       Number of
+ Pop       1      2      3      Individuals
+
+  1:     0.421  0.281  0.298      100
+--------------------------------------------
+
+Allele-freq. divergence among pops (Net nucleotide distance),
+computed using point estimates of P.
+
+      1       2       3      
+ 1      -    0.2401  0.1234  
+ 2   0.2401     -    0.2384  
+ 3   0.1234  0.2384     -    
+
+Average distances (expected heterozygosity) between individuals in same cluster:
+cluster  1  : 0.0336 
+cluster  2  : 0.2337 
+cluster  3  : 0.0007 
+
+--------------------------------------------
+Estimated Ln Prob of Data   = -1301.8
+Mean value of ln likelihood = -1265.5
+Variance of ln likelihood   = 72.6
+Mean value of alpha         = 0.1074
+
+Mean value of Fst_1         = 0.8442
+Mean value of Fst_2         = 0.4749
+Mean value of Fst_3         = 0.9728
+
+
+Inferred ancestry of individuals:
+        Label (%Miss) Pop:  Inferred clusters
+  1    tsk_0    (0)    1 :  0.495 0.011 0.495 
+  2    tsk_1    (0)    1 :  0.029 0.327 0.644 
+  3    tsk_2    (0)    1 :  0.462 0.006 0.531 
+  4    tsk_3    (0)    1 :  0.020 0.459 0.521 
+  5    tsk_4    (0)    1 :  0.457 0.006 0.537 
+  6    tsk_5    (0)    1 :  0.461 0.006 0.533 
+  7    tsk_6    (0)    1 :  0.019 0.958 0.023 
+  8    tsk_7    (0)    1 :  0.364 0.617 0.018 
+  9    tsk_8    (0)    1 :  0.620 0.342 0.038 
+ 10    tsk_9    (0)    1 :  0.015 0.606 0.379 
+ 11   tsk_10    (0)    1 :  0.014 0.604 0.383 
+ 12   tsk_11    (0)    1 :  0.015 0.605 0.380 
+ 13   tsk_12    (0)    1 :  0.986 0.004 0.010 
+ 14   tsk_13    (0)    1 :  0.006 0.988 0.006 
+ 15   tsk_14    (0)    1 :  0.006 0.988 0.006 
+ 16   tsk_15    (0)    1 :  0.019 0.458 0.523 
+ 17   tsk_16    (0)    1 :  0.012 0.005 0.984 
+ 18   tsk_17    (0)    1 :  0.496 0.475 0.028 
+ 19   tsk_18    (0)    1 :  0.364 0.618 0.018 
+ 20   tsk_19    (0)    1 :  0.006 0.988 0.006 
+ 21   tsk_20    (0)    1 :  0.983 0.005 0.013 
+ 22   tsk_21    (0)    1 :  0.980 0.005 0.015 
+ 23   tsk_22    (0)    1 :  0.528 0.452 0.020 
+ 24   tsk_23    (0)    1 :  0.984 0.005 0.011 
+ 25   tsk_24    (0)    1 :  0.980 0.005 0.015 
+ 26   tsk_25    (0)    1 :  0.499 0.474 0.027 
+ 27   tsk_26    (0)    1 :  0.006 0.988 0.006 
+ 28   tsk_27    (0)    1 :  0.010 0.980 0.010 
+ 29   tsk_28    (0)    1 :  0.365 0.617 0.019 
+ 30   tsk_29    (0)    1 :  0.007 0.985 0.008 
+ 31   tsk_30    (0)    1 :  0.009 0.981 0.010 
+ 32   tsk_31    (0)    1 :  0.009 0.981 0.010 
+ 33   tsk_32    (0)    1 :  0.009 0.981 0.010 
+ 34   tsk_33    (0)    1 :  0.020 0.460 0.520 
+ 35   tsk_34    (0)    1 :  0.009 0.981 0.010 
+ 36   tsk_35    (0)    1 :  0.020 0.458 0.523 
+ 37   tsk_36    (0)    1 :  0.010 0.980 0.011 
+ 38   tsk_37    (0)    1 :  0.496 0.476 0.027 
+ 39   tsk_38    (0)    1 :  0.018 0.461 0.521 
+ 40   tsk_39    (0)    1 :  0.529 0.451 0.020 
+ 41   tsk_40    (0)    1 :  0.011 0.977 0.012 
+ 42   tsk_41    (0)    1 :  0.463 0.006 0.531 
+ 43   tsk_42    (0)    1 :  0.613 0.005 0.382 
+ 44   tsk_43    (0)    1 :  0.011 0.978 0.012 
+ 45   tsk_44    (0)    1 :  0.526 0.006 0.469 
+ 46   tsk_45    (0)    1 :  0.465 0.006 0.529 
+ 47   tsk_46    (0)    1 :  0.981 0.005 0.015 
+ 48   tsk_47    (0)    1 :  0.011 0.004 0.984 
+ 49   tsk_48    (0)    1 :  0.011 0.005 0.984 
+ 50   tsk_49    (0)    1 :  0.012 0.005 0.983 
+ 51   tsk_50    (0)    1 :  0.463 0.006 0.531 
+ 52   tsk_51    (0)    1 :  0.980 0.005 0.015 
+ 53   tsk_52    (0)    1 :  0.983 0.005 0.013 
+ 54   tsk_53    (0)    1 :  0.457 0.006 0.537 
+ 55   tsk_54    (0)    1 :  0.465 0.006 0.529 
+ 56   tsk_55    (0)    1 :  0.982 0.005 0.013 
+ 57   tsk_56    (0)    1 :  0.980 0.005 0.015 
+ 58   tsk_57    (0)    1 :  0.981 0.005 0.014 
+ 59   tsk_58    (0)    1 :  0.464 0.006 0.530 
+ 60   tsk_59    (0)    1 :  0.978 0.007 0.015 
+ 61   tsk_60    (0)    1 :  0.982 0.005 0.013 
+ 62   tsk_61    (0)    1 :  0.979 0.005 0.016 
+ 63   tsk_62    (0)    1 :  0.982 0.005 0.014 
+ 64   tsk_63    (0)    1 :  0.980 0.005 0.015 
+ 65   tsk_64    (0)    1 :  0.979 0.005 0.016 
+ 66   tsk_65    (0)    1 :  0.396 0.591 0.013 
+ 67   tsk_66    (0)    1 :  0.980 0.005 0.015 
+ 68   tsk_67    (0)    1 :  0.980 0.005 0.015 
+ 69   tsk_68    (0)    1 :  0.982 0.005 0.013 
+ 70   tsk_69    (0)    1 :  0.981 0.005 0.015 
+ 71   tsk_70    (0)    1 :  0.011 0.005 0.985 
+ 72   tsk_71    (0)    1 :  0.025 0.329 0.646 
+ 73   tsk_72    (0)    1 :  0.014 0.606 0.380 
+ 74   tsk_73    (0)    1 :  0.015 0.623 0.362 
+ 75   tsk_74    (0)    1 :  0.012 0.005 0.983 
+ 76   tsk_75    (0)    1 :  0.011 0.005 0.984 
+ 77   tsk_76    (0)    1 :  0.012 0.005 0.984 
+ 78   tsk_77    (0)    1 :  0.020 0.460 0.520 
+ 79   tsk_78    (0)    1 :  0.026 0.328 0.645 
+ 80   tsk_79    (0)    1 :  0.012 0.005 0.983 
+ 81   tsk_80    (0)    1 :  0.458 0.006 0.536 
+ 82   tsk_81    (0)    1 :  0.011 0.005 0.984 
+ 83   tsk_82    (0)    1 :  0.019 0.460 0.521 
+ 84   tsk_83    (0)    1 :  0.458 0.006 0.536 
+ 85   tsk_84    (0)    1 :  0.012 0.005 0.984 
+ 86   tsk_85    (0)    1 :  0.980 0.005 0.015 
+ 87   tsk_86    (0)    1 :  0.011 0.005 0.984 
+ 88   tsk_87    (0)    1 :  0.012 0.005 0.983 
+ 89   tsk_88    (0)    1 :  0.459 0.006 0.535 
+ 90   tsk_89    (0)    1 :  0.011 0.005 0.984 
+ 91   tsk_90    (0)    1 :  0.988 0.004 0.008 
+ 92   tsk_91    (0)    1 :  0.985 0.004 0.011 
+ 93   tsk_92    (0)    1 :  0.558 0.426 0.016 
+ 94   tsk_93    (0)    1 :  0.986 0.004 0.010 
+ 95   tsk_94    (0)    1 :  0.988 0.004 0.008 
+ 96   tsk_95    (0)    1 :  0.985 0.004 0.011 
+ 97   tsk_96    (0)    1 :  0.558 0.426 0.016 
+ 98   tsk_97    (0)    1 :  0.530 0.449 0.021 
+ 99   tsk_98    (0)    1 :  0.528 0.451 0.021 
+100   tsk_99    (0)    1 :  0.988 0.004 0.008 
+
+
+Estimated Allele Frequencies in each cluster
+First column gives estimated ancestral frequencies
+
+
+Locus 1 : SNP_1 
+2 alleles
+0.0% missing data
+   1   (0.709) 0.999 0.673 1.000 
+   2   (0.291) 0.001 0.327 0.000 
+
+Locus 2 : SNP_2 
+2 alleles
+0.0% missing data
+   1   (0.794) 1.000 0.978 1.000 
+   3   (0.206) 0.000 0.022 0.000 
+
+Locus 3 : SNP_3 
+2 alleles
+0.0% missing data
+   3   (0.709) 0.999 0.673 1.000 
+   1   (0.291) 0.001 0.327 0.000 
+
+Locus 4 : SNP_4 
+2 alleles
+0.0% missing data
+   2   (0.290) 0.997 0.008 0.000 
+   1   (0.710) 0.003 0.992 1.000 
+
+Locus 5 : SNP_5 
+2 alleles
+0.0% missing data
+   1   (0.709) 0.999 0.673 1.000 
+   4   (0.291) 0.001 0.327 0.000 
+
+Locus 6 : SNP_6 
+2 alleles
+0.0% missing data
+   3   (0.686) 0.999 0.505 1.000 
+   2   (0.314) 0.001 0.495 0.000 
+
+Locus 7 : SNP_7 
+2 alleles
+0.0% missing data
+   2   (0.708) 0.999 0.672 1.000 
+   3   (0.292) 0.001 0.328 0.000 
+
+Locus 8 : SNP_8 
+2 alleles
+0.0% missing data
+   3   (0.709) 0.999 0.673 1.000 
+   2   (0.291) 0.001 0.327 0.000 
+
+Locus 9 : SNP_9 
+2 alleles
+0.0% missing data
+   4   (0.711) 0.999 0.673 1.000 
+   2   (0.289) 0.001 0.327 0.000 
+
+Locus 10 : SNP_10 
+2 alleles
+0.0% missing data
+   2   (0.764) 0.837 0.990 1.000 
+   4   (0.236) 0.163 0.010 0.000 
+
+Locus 11 : SNP_11 
+2 alleles
+0.0% missing data
+   3   (0.778) 0.831 0.995 1.000 
+   1   (0.222) 0.169 0.005 0.000 
+
+Locus 12 : SNP_12 
+2 alleles
+0.0% missing data
+   4   (0.792) 0.988 0.995 1.000 
+   3   (0.208) 0.012 0.005 0.000 
+
+Locus 13 : SNP_13 
+2 alleles
+0.0% missing data
+   4   (0.749) 0.999 0.993 0.001 
+   3   (0.251) 0.001 0.007 0.999 
+
+Locus 14 : SNP_14 
+2 alleles
+0.0% missing data
+   3   (0.287) 0.997 0.008 0.000 
+   2   (0.713) 0.003 0.992 1.000 
+
+Locus 15 : SNP_15 
+2 alleles
+0.0% missing data
+   3   (0.711) 0.999 0.673 1.000 
+   1   (0.289) 0.001 0.327 0.000 
+
+Locus 16 : SNP_16 
+2 alleles
+0.0% missing data
+   2   (0.794) 0.999 0.979 1.000 
+   3   (0.206) 0.001 0.021 0.000 
+
+Locus 17 : SNP_17 
+2 alleles
+0.0% missing data
+   4   (0.487) 0.999 0.020 1.000 
+   3   (0.513) 0.001 0.980 0.000 
+
+Locus 18 : SNP_18 
+2 alleles
+0.0% missing data
+   4   (0.661) 0.999 0.338 1.000 
+   1   (0.339) 0.001 0.662 0.000 
+
+Locus 19 : SNP_19 
+2 alleles
+0.0% missing data
+   4   (0.749) 0.999 0.993 0.001 
+   1   (0.251) 0.001 0.007 0.999 
+
+Locus 20 : SNP_20 
+2 alleles
+0.0% missing data
+   3   (0.781) 0.831 0.995 1.000 
+   1   (0.219) 0.169 0.005 0.000 
+
+Locus 21 : SNP_21 
+2 alleles
+0.0% missing data
+   2   (0.791) 0.976 0.996 1.000 
+   1   (0.209) 0.024 0.004 0.000 
+
+Locus 22 : SNP_22 
+2 alleles
+0.0% missing data
+   3   (0.669) 0.999 0.401 1.000 
+   4   (0.331) 0.001 0.599 0.000 
+
+Locus 23 : SNP_23 
+2 alleles
+0.0% missing data
+   1   (0.753) 0.999 0.905 1.000 
+   2   (0.247) 0.001 0.095 0.000 
+
+Locus 24 : SNP_24 
+2 alleles
+0.0% missing data
+   3   (0.492) 0.999 0.020 1.000 
+   2   (0.508) 0.001 0.980 0.000 
+
+Locus 25 : SNP_25 
+2 alleles
+0.0% missing data
+   4   (0.495) 0.999 0.021 1.000 
+   3   (0.505) 0.001 0.979 0.000 
+
+Locus 26 : SNP_26 
+2 alleles
+0.0% missing data
+   3   (0.711) 0.999 0.673 1.000 
+   4   (0.289) 0.001 0.327 0.000 
+
+Locus 27 : SNP_27 
+2 alleles
+0.0% missing data
+   1   (0.660) 0.999 0.338 1.000 
+   3   (0.340) 0.001 0.662 0.000 
+
+Locus 28 : SNP_28 
+2 alleles
+0.0% missing data
+   3   (0.708) 0.999 0.673 1.000 
+   2   (0.292) 0.001 0.327 0.000 
+
+Locus 29 : SNP_29 
+2 alleles
+0.0% missing data
+   1   (0.667) 0.999 0.402 1.000 
+   3   (0.333) 0.001 0.598 0.000 
+
+Locus 30 : SNP_30 
+2 alleles
+0.0% missing data
+   4   (0.785) 0.928 0.996 1.000 
+   3   (0.215) 0.072 0.004 0.000 
+
+Locus 31 : SNP_31 
+2 alleles
+0.0% missing data
+   2   (0.709) 0.999 0.673 1.000 
+   3   (0.291) 0.001 0.327 0.000 
+
+Locus 32 : SNP_32 
+2 alleles
+0.0% missing data
+   3   (0.208) 0.009 0.006 0.003 
+   1   (0.792) 0.991 0.994 0.997 
+
+Locus 33 : SNP_33 
+2 alleles
+0.0% missing data
+   4   (0.709) 0.999 0.673 1.000 
+   1   (0.291) 0.001 0.327 0.000 
+
+Values of parameters used in structure:
+DATAFILE=./ILM10/ILM10_replicate8_10.str,	OUTFILE=./ILM10_output/ILM10_replicate8_10_k3_output.txt,	NUMINDS=100,	NUMLOCI=33,	MISSING=-9,	LABEL=1,	POPDATA=1,	POPFLAG=0,	PHENOTYPE=0,	EXTRACOLS=0,	MAXPOPS=3,	BURNIN=1000000,	NUMREPS=100000,	USEPOPINFO=0,	INFERALPHA=1,	INFERLAMBDA=0,	POPSPECIFICLAMBDA=0,	POPALPHAS=0,	COMPUTEPROB=1,	NOADMIX=0,	ADMBURNIN=500,	UPDATEFREQ=100,	PRINTLIKES=0,	INTERMEDSAVE=0,	PRINTKLD=0,	PRINTNET=1,	PRINTLAMBDA=1,	ANCESTDIST=0,	NUMBOXES=1000,	ANCESTPINT=0.90000,	GENSBACK=2,	MIGRPRIOR=0.01000,	PRINTQHAT=0,	PRINTQSUM=1,	ALPHA=1.0000,	FREQSCORR=1,	FPRIORMEAN=0.0100,	FPRIORSD=0.0500,	ONEFST=0,	LAMBDA=1.0000,	UNIFPRIORALPHA=1,	ALPHAMAX=10.0000,	ALPHAPRIORA=1.0000,	ALPHAPRIORB=2.0000,	ALPHAPROPSD=0.0250,	STARTATPOPINFO=0,	RANDOMIZE=1,	LINKAGE=0,	METROFREQ=10,	REPORTHITRATE=0,	MARKOVPHASE=0,	PHASED=0,	PLOIDY=2,	PHASEINFO=0	LOCPRIOR=0, 	LOCPRIORINIT=1.000000, 	LOCDATA=0, 	LOCISPOP=1, 	LOCPRIORSTEP=0.100000, 	MAXLOCPRIOR=20.000000, 	SEED=1725541368,	
+[STRAT parameters]:    NUMSIMSTATS=1000,	PHENOTYPECOL=-9,	POOLFREQ=10,	LOCUSxONLY=0,	EMERROR=0.00100,	MISSINGPHENO=-9,	

@@ -1,0 +1,15 @@
+PLINK v1.90b6.21 64-bit (19 Oct 2020)
+Options in effect:
+  --out *.vcf.str
+  --recode structure
+  --vcf *.vcf
+
+Hostname: mesxuuyan
+Working directory: /sdc/home/mwanjiku/Multiclust_Benchmarking/Multiclust_Simulations/ILM15
+Start time: Wed Feb  8 15:47:10 2023
+
+Random number seed: 1675900030
+128827 MB RAM detected; reserving 64413 MB for main workspace.
+Error: Failed to open *.vcf.
+
+End time: Wed Feb  8 15:47:10 2023

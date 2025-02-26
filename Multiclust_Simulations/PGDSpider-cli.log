@@ -1,0 +1,2 @@
+INFO  09-02 17:18:19,642 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:18:19,690 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance

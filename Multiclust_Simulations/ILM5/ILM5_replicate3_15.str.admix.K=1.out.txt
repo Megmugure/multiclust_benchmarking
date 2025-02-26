@@ -1,0 +1,7 @@
+logL = -529.044830 (not converged)
+AIC = 1090.089660
+BIC = 1120.682028
+
+count.K
+50 
+

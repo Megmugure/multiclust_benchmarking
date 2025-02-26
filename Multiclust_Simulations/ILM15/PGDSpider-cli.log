@@ -1,0 +1,800 @@
+INFO  09-02 17:18:41,463 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:18:41,511 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:18:41,526 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:18:41,612 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:18:42,170 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:18:42,218 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:18:42,233 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:18:42,321 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:18:42,793 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:18:42,832 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:18:42,844 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:18:42,921 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:18:43,437 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:18:43,476 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:18:43,488 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:18:43,559 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:18:44,006 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:18:44,047 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:18:44,059 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:18:44,145 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:18:44,658 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:18:44,698 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:18:44,710 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:18:44,788 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:18:45,254 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:18:45,293 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:18:45,305 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:18:45,385 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:18:45,931 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:18:45,979 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:18:45,994 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:18:46,099 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:18:46,695 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:18:46,744 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:18:46,759 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:18:46,852 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:18:47,426 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:18:47,473 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:18:47,489 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:18:47,589 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:18:48,149 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:18:48,197 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:18:48,212 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:18:48,294 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:18:48,750 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:18:48,789 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:18:48,801 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:18:48,885 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:18:49,371 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:18:49,410 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:18:49,423 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:18:49,527 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:18:50,138 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:18:50,186 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:18:50,201 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:18:50,288 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:18:50,832 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:18:50,871 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:18:50,883 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:18:50,965 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:18:51,529 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:18:51,576 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:18:51,592 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:18:51,701 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:18:52,265 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:18:52,313 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:18:52,328 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:18:52,424 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:18:52,998 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:18:53,045 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:18:53,060 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:18:53,143 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:18:53,689 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:18:53,736 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:18:53,751 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:18:53,837 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:18:54,410 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:18:54,457 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:18:54,472 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:18:54,578 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:18:55,178 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:18:55,226 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:18:55,241 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:18:55,333 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:18:55,850 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:18:55,889 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:18:55,902 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:18:55,973 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:18:56,426 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:18:56,466 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:18:56,478 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:18:56,556 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:18:57,017 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:18:57,057 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:18:57,068 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:18:57,151 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:18:57,623 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:18:57,662 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:18:57,675 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:18:57,760 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:18:58,245 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:18:58,284 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:18:58,296 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:18:58,374 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:18:58,927 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:18:58,975 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:18:58,991 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:18:59,085 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:18:59,559 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:18:59,598 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:18:59,611 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:18:59,692 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:00,164 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:00,204 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:00,216 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:00,293 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:00,863 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:00,910 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:00,925 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:01,017 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:01,610 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:01,659 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:01,675 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:01,777 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:02,360 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:02,407 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:02,423 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:02,509 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:03,101 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:03,149 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:03,165 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:03,250 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:03,718 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:03,756 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:03,769 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:03,850 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:04,423 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:04,473 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:04,489 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:04,585 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:05,147 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:05,194 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:05,209 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:05,293 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:05,857 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:05,904 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:05,919 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:06,002 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:06,554 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:06,603 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:06,618 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:06,721 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:07,308 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:07,356 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:07,371 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:07,466 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:08,029 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:08,077 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:08,092 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:08,192 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:08,757 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:08,805 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:08,820 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:08,914 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:09,477 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:09,525 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:09,540 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:09,633 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:10,208 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:10,256 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:10,271 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:10,356 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:10,880 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:10,918 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:10,930 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:11,001 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:11,552 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:11,600 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:11,615 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:11,703 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:12,304 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:12,351 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:12,366 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:12,467 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:13,064 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:13,112 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:13,127 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:13,232 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:13,810 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:13,858 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:13,873 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:13,968 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:14,533 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:14,581 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:14,596 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:14,685 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:15,209 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:15,248 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:15,260 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:15,340 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:15,915 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:15,963 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:15,979 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:16,057 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:16,604 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:16,651 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:16,667 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:16,746 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:17,216 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:17,255 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:17,267 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:17,343 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:17,818 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:17,857 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:17,869 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:17,941 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:18,481 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:18,528 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:18,543 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:18,632 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:19,232 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:19,280 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:19,296 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:19,384 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:19,971 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:20,018 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:20,033 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:20,128 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:20,691 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:20,738 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:20,754 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:20,840 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:21,345 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:21,384 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:21,396 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:21,487 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:22,060 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:22,107 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:22,123 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:22,221 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:22,819 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:22,867 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:22,883 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:22,979 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:23,556 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:23,604 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:23,619 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:23,730 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:24,299 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:24,347 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:24,363 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:24,471 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:25,101 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:25,149 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:25,164 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:25,260 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:25,841 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:25,889 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:25,904 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:25,993 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:26,554 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:26,602 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:26,617 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:26,697 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:27,236 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:27,283 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:27,298 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:27,393 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:27,982 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:28,029 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:28,044 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:28,137 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:28,724 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:28,771 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:28,787 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:28,896 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:29,488 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:29,537 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:29,552 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:29,638 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:30,089 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:30,128 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:30,139 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:30,229 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:30,809 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:30,856 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:30,871 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:30,965 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:31,530 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:31,578 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:31,593 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:31,674 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:32,223 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:32,270 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:32,286 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:32,378 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:32,920 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:32,959 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:32,971 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:33,054 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:33,528 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:33,567 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:33,580 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:33,656 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:34,131 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:34,171 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:34,183 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:34,266 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:34,820 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:34,868 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:34,883 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:34,972 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:35,529 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:35,577 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:35,593 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:35,685 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:36,277 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:36,324 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:36,339 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:36,432 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:36,999 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:37,047 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:37,062 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:37,157 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:37,741 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:37,789 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:37,804 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:37,894 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:38,465 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:38,513 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:38,528 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:38,618 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:39,216 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:39,264 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:39,280 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:39,367 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:39,952 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:40,001 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:40,016 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:40,112 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:40,715 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:40,765 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:40,781 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:40,880 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:41,468 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:41,516 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:41,531 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:41,628 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:42,197 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:42,245 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:42,260 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:42,347 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:42,910 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:42,957 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:42,973 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:43,080 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:43,651 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:43,698 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:43,713 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:43,797 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:44,408 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:44,458 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:44,473 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:44,574 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:45,164 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:45,212 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:45,227 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:45,332 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:45,904 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:45,952 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:45,967 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:46,051 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:46,600 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:46,648 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:46,663 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:46,750 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:47,321 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:47,368 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:47,383 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:47,485 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:48,073 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:48,121 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:48,137 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:48,242 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:48,811 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:48,858 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:48,874 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:48,975 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:49,544 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:49,591 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:49,606 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:49,695 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:50,272 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:50,320 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:50,335 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:50,418 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:50,928 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:50,967 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:50,979 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:51,069 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:51,656 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:51,704 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:51,719 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:51,812 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:52,406 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:52,454 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:52,469 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:52,558 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:53,143 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:53,191 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:53,206 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:53,292 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:53,883 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:53,930 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:53,945 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:54,043 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:54,610 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:54,658 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:54,673 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:54,760 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:55,223 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:55,262 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:55,274 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:55,341 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:55,794 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:55,842 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:55,857 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:55,952 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:56,547 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:56,594 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:56,610 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:56,696 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:57,284 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:57,332 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:57,347 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:57,451 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:58,036 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:58,083 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:58,098 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:58,185 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:58,761 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:58,808 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:58,823 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:58,912 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:19:59,538 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:19:59,585 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:19:59,601 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:19:59,695 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:00,293 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:00,340 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:00,356 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:00,453 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:01,021 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:01,069 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:01,084 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:01,169 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:01,767 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:01,814 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:01,829 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:01,916 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:02,477 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:02,526 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:02,541 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:02,629 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:03,209 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:03,261 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:03,276 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:03,360 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:03,930 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:03,978 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:03,993 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:04,082 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:04,640 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:04,687 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:04,703 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:04,796 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:05,366 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:05,413 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:05,428 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:05,517 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:06,062 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:06,110 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:06,126 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:06,210 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:06,757 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:06,804 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:06,819 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:06,908 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:07,492 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:07,540 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:07,555 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:07,649 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:08,201 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:08,249 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:08,264 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:08,347 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:08,900 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:08,948 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:08,964 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:09,059 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:09,628 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:09,677 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:09,692 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:09,787 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:10,383 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:10,431 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:10,446 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:10,543 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:11,131 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:11,177 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:11,192 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:11,276 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:11,831 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:11,878 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:11,894 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:11,985 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:12,568 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:12,616 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:12,631 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:12,730 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:13,309 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:13,357 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:13,372 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:13,479 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:14,053 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:14,101 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:14,116 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:14,219 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:14,839 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:14,887 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:14,902 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:15,005 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:15,582 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:15,629 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:15,645 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:15,741 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:16,313 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:16,360 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:16,376 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:16,464 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:17,036 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:17,083 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:17,099 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:17,215 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:17,835 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:17,883 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:17,898 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:18,004 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:18,581 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:18,629 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:18,645 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:18,730 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:19,307 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:19,354 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:19,370 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:19,456 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:20,029 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:20,077 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:20,092 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:20,190 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:20,752 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:20,800 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:20,815 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:20,900 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:21,477 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:21,525 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:21,540 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:21,631 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:22,226 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:22,273 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:22,288 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:22,380 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:23,003 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:23,053 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:23,068 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:23,169 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:23,767 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:23,824 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:23,841 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:23,936 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:24,517 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:24,564 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:24,579 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:24,674 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:25,257 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:25,325 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:25,343 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:25,446 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:26,067 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:26,114 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:26,129 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:26,217 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:26,798 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:26,846 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:26,861 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:26,946 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:27,491 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:27,539 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:27,554 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:27,666 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:28,206 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:28,245 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:28,257 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:28,333 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:28,880 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:28,928 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:28,943 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:29,031 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:29,565 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:29,605 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:29,617 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:29,702 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:30,272 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:30,320 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:30,336 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:30,424 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:30,978 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:31,026 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:31,041 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:31,138 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:31,622 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:31,661 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:31,674 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:31,754 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:32,335 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:32,383 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:32,399 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:32,488 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:33,088 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:33,135 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:33,150 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:33,237 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:33,794 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:33,841 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:33,857 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:33,951 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:34,426 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:34,466 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:34,479 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:34,590 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:35,202 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:35,251 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:35,266 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:35,354 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:35,945 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:35,992 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:36,006 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:36,097 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:36,661 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:36,709 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:36,724 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:36,833 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:37,471 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:37,519 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:37,533 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:37,612 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:38,062 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:38,100 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:38,113 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:38,191 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:38,737 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:38,785 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:38,800 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:38,900 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:39,474 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:39,522 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:39,537 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:39,649 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:40,240 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:40,288 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:40,303 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:40,394 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:40,985 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:41,033 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:41,048 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:41,137 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:41,715 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:41,763 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:41,778 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:41,872 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:42,459 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:42,507 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:42,522 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:42,609 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:43,201 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:43,248 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:43,263 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:43,359 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:43,961 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:44,008 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:44,024 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:44,117 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:44,683 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:44,731 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:44,746 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:44,832 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:45,404 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:45,452 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:45,464 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:45,561 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:46,158 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:46,205 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:46,220 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:46,308 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:46,895 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:46,943 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:46,958 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:47,049 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:47,626 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:47,673 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:47,688 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:47,773 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:48,309 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:48,356 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:48,371 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:48,462 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:49,048 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:49,095 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:49,110 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:49,199 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:49,784 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:49,832 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:49,847 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:49,932 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:50,503 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:50,550 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:50,566 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:50,668 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:51,255 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:51,303 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:51,318 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:51,407 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:51,982 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:52,021 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:52,034 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:52,122 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:52,679 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:52,727 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:52,742 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:52,839 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:53,375 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:53,415 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:53,427 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:53,504 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:54,057 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:54,105 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:54,120 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:54,216 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:54,779 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:54,827 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:54,842 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:54,932 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:55,497 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:55,545 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:55,561 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:55,653 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:56,210 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:56,258 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:56,273 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:56,365 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:56,938 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:56,985 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:57,001 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:57,096 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:57,671 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:57,719 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:57,734 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:57,821 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:58,434 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:58,491 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:58,505 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:58,589 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:59,156 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:59,204 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:59,220 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:20:59,314 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:20:59,920 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:20:59,969 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:20:59,984 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:21:00,078 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:21:00,651 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:21:00,700 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:21:00,716 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:21:00,795 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:21:01,347 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:21:01,395 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:21:01,410 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:21:01,509 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:21:02,065 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:21:02,113 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:21:02,128 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:21:02,214 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:21:02,794 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:21:02,842 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:21:02,857 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:21:02,960 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  09-02 17:21:03,541 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /sdc/home/mwanjiku/miniconda3/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 09-02 17:21:03,589 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 09-02 17:21:03,604 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  09-02 17:21:03,702 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
